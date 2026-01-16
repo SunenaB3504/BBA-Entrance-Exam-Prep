@@ -1,0 +1,110 @@
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrowHead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+    </marker>
+  </defs>
+
+  <rect width="100%" height="100%" fill="white" />
+  
+  <!-- Problem Figures Header -->
+  <text x="50" y="30" font-family="Arial" font-size="18" font-weight="bold">Problem Figures:</text>
+  
+  <g transform="translate(50, 50)">
+      <!-- Figure X -->
+      <g transform="translate(0, 0)">
+          <text x="0" y="-10" font-family="Arial" font-size="14">(X)</text>
+          <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+          <!-- Fold from Bottom-Left to Top-Right -->
+          <line x1="0" y1="100" x2="100" y2="0" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
+          <!-- Arrow -->
+          <path d="M 20 80 Q 50 50 60 40" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrowHead)"/>
+      </g>
+
+      <!-- Figure Y -->
+      <g transform="translate(140, 0)">
+          <text x="0" y="-10" font-family="Arial" font-size="14">(Y)</text>
+          <!-- Triangle (Folded) -->
+          <polygon points="0,0 100,0 100,100" fill="none" stroke="gray" stroke-width="1" stroke-dasharray="2,2" opacity="0.3"/> <!-- Ghost of original -->
+          <polygon points="0,0 100,0 0,100" fill="none" stroke="black" stroke-width="2"/> <!-- Visible Triangle Top-Left -->
+          
+          <!-- Second Fold: Top-Left to Bottom-Right of this triangle? Matches typical logic -->
+          <line x1="0" y1="0" x2="50" y2="50" stroke="black" stroke-width="2" stroke-dasharray="5,5"/> <!-- Perpendicular bisector fold -->
+          <path d="M 20 10 Q 30 30 40 40" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrowHead)"/>
+      </g>
+
+      <!-- Figure Z -->
+      <g transform="translate(280, 0)">
+          <text x="0" y="-10" font-family="Arial" font-size="14">(Z)</text>
+          <!-- Small Triangle -->
+           <polygon points="0,0 100,0 0,100" fill="none" stroke="gray" stroke-width="1" stroke-dasharray="2,2" opacity="0.3"/>
+           <polygon points="0,0 50,50 50,0" fill="none" stroke="black" stroke-width="2"/> <!-- Resulting small triangle on top edge -->
+           
+           <!-- The Cuts -->
+           <!-- Two semi-circles on the vertical edge (which is the center of the paper) -->
+           <path d="M 50 10 A 5 5 0 0 0 50 20" fill="none" stroke="black" stroke-width="2" />
+           <path d="M 50 30 A 5 5 0 0 0 50 40" fill="none" stroke="black" stroke-width="2" />
+           <!-- Circle in the corner (center of square) -->
+           <circle cx="10" cy="10" r="4" fill="none" stroke="black" stroke-width="2" />
+      </g>
+  </g>
+
+  <!-- Answer Figures Header -->
+  <text x="50" y="200" font-family="Arial" font-size="18" font-weight="bold">Answer Figures:</text>
+
+  <g transform="translate(50, 230)">
+      <!-- Option (1) -->
+      <g transform="translate(0, 0)">
+          <text x="0" y="-10" font-family="Arial" font-size="14">(1)</text>
+          <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+          <!-- Pattern: 4 corners (from the small circle) + 4 center-clusters (from the edge cuts) -->
+          <!-- Corner circles -->
+          <circle cx="20" cy="20" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="80" cy="20" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="20" cy="80" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="80" cy="80" r="4" fill="none" stroke="black" stroke-width="2"/>
+          
+          <!-- Center pattern (from edge cuts unfolding) -->
+          <!-- The edge cuts were on the center vertical axis of the folded shape... -->
+          <circle cx="50" cy="50" r="8" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="50" cy="20" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="50" cy="80" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="20" cy="50" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="80" cy="50" r="4" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+
+      <!-- Option (2) -->
+      <g transform="translate(140, 0)">
+          <text x="0" y="-10" font-family="Arial" font-size="14">(2)</text>
+          <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="20" cy="20" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="80" cy="80" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="50" cy="50" r="10" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+
+      <!-- Option (3): The Correct One based on logic -->
+      <g transform="translate(280, 0)">
+          <text x="0" y="-10" font-family="Arial" font-size="14">(3)</text>
+          <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+          <!-- 4 Corner circles -->
+          <circle cx="20" cy="20" r="4" fill="none" stroke="black" stroke-width="2"/> <!-- Top Left -->
+          <circle cx="80" cy="20" r="4" fill="none" stroke="black" stroke-width="2"/> <!-- Top Right -->
+          <circle cx="20" cy="80" r="4" fill="none" stroke="black" stroke-width="2"/> <!-- Bot Left -->
+          <circle cx="80" cy="80" r="4" fill="none" stroke="black" stroke-width="2"/> <!-- Bot Right -->
+          
+          <!-- Inner diamond of holes formed by the edge cuts -->
+          <circle cx="40" cy="40" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="60" cy="40" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="40" cy="60" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="60" cy="60" r="4" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+
+      <!-- Option (4) -->
+      <g transform="translate(420, 0)">
+          <text x="0" y="-10" font-family="Arial" font-size="14">(4)</text>
+          <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="20" cy="20" r="4" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="20" cy="80" r="4" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+  </g>
+</svg>

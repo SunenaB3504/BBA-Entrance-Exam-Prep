@@ -1,0 +1,130 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Common shapes -->
+    <path id="arc" d="M -15 0 Q 0 -10 15 0" fill="none" stroke="black" stroke-width="2"/>
+    <circle id="eye" cx="0" cy="0" r="8" fill="none" stroke="black" stroke-width="2"/>
+    <circle id="dot" cx="0" cy="0" r="3" fill="black"/>
+    <polygon id="tri" points="-8,-8 8,-8 0,8" fill="none" stroke="black" stroke-width="2"/> <!-- Inverted triangle -->
+    <polygon id="tri-up" points="-8,8 8,8 0,-8" fill="none" stroke="black" stroke-width="2"/> <!-- Upright triangle -->
+  </defs>
+
+  <rect width="100%" height="100%" fill="white" />
+  
+  <text x="50" y="30" font-family="Arial" font-size="20">Problem Figure:</text>
+  
+  <!-- Problem Figure Box -->
+  <g transform="translate(50, 50)">
+      <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+      
+      <!-- Top: 2 Circles -->
+      <use href="#eye" x="25" y="25"/>
+      <use href="#eye" x="75" y="25"/>
+      
+      <!-- Middle: 3 Arcs -->
+      <g transform="translate(50, 50)">
+          <path d="M -20 0 Q 0 -15 20 0" fill="none" stroke="black" stroke-width="2"/>
+          <path d="M -15 5 Q 0 -5 15 5" fill="none" stroke="black" stroke-width="2"/>
+          <path d="M -10 10 Q 0 5 10 10" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+      
+      <!-- Bottom: Triangle with Dots -->
+      <g transform="translate(50, 80)">
+          <use href="#tri"/>
+          <use href="#dot" x="-4" y="-3"/>
+          <use href="#dot" x="4" y="-3"/>
+      </g>
+  </g>
+
+  <!-- Options -->
+  <text x="50" y="200" font-family="Arial" font-size="20">Answer Figures:</text>
+  
+  <g transform="translate(50, 230)">
+      <!-- Option 1 -->
+      <g transform="translate(0, 0)">
+         <text x="-30" y="50" font-family="Arial" font-size="16">(1)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+         
+         <!-- Face -->
+         <!-- 3 Arcs on Forehead -->
+         <g transform="translate(50, 20)">
+             <path d="M -20 0 Q 0 -15 20 0" fill="none" stroke="black" stroke-width="2"/>
+             <path d="M -15 5 Q 0 -5 15 5" fill="none" stroke="black" stroke-width="2"/>
+             <path d="M -10 10 Q 0 5 10 10" fill="none" stroke="black" stroke-width="2"/>
+         </g>
+         
+         <!-- Eyes with Dots -->
+         <g transform="translate(30, 45)">
+             <use href="#eye"/>
+             <use href="#dot"/>
+         </g>
+         <g transform="translate(70, 45)">
+             <use href="#eye"/>
+             <use href="#dot"/>
+         </g>
+         
+         <!-- Nose (Upright Triangle) -->
+         <use href="#tri-up" x="50" y="65"/>
+         
+         <!-- Mouth (Curve) -->
+         <path d="M 35 80 Q 50 90 65 80" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+      
+      <!-- Option 2 -->
+      <g transform="translate(150, 0)">
+         <text x="-30" y="50" font-family="Arial" font-size="16">(2)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+         
+         <!-- 2 Arcs -->
+         <g transform="translate(50, 25)">
+              <path d="M -15 0 Q 0 -10 15 0" fill="none" stroke="black" stroke-width="2"/>
+              <path d="M -10 5 Q 0 -2 10 5" fill="none" stroke="black" stroke-width="2"/>
+         </g>
+         
+         <!-- Empty Eyes -->
+          <use href="#eye" x="30" y="45"/>
+          <use href="#eye" x="70" y="45"/>
+          
+         <!-- V Nose -->
+         <polyline points="45,60 50,70 55,60" fill="none" stroke="black" stroke-width="2"/>
+         
+         <!-- Mouth -->
+         <path d="M 35 80 Q 50 90 65 80" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+      
+      <!-- Option 3 -->
+      <g transform="translate(300, 0)">
+         <text x="-30" y="50" font-family="Arial" font-size="16">(3)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+         <!-- 2 Arcs -->
+          <g transform="translate(50, 25)">
+              <path d="M -15 0 Q 0 -10 15 0" fill="none" stroke="black" stroke-width="2"/>
+              <path d="M -10 5 Q 0 -2 10 5" fill="none" stroke="black" stroke-width="2"/>
+         </g>
+         <!-- Eyes with Dots -->
+         <g transform="translate(30, 45)"> <use href="#eye"/> <use href="#dot"/> </g>
+         <g transform="translate(70, 45)"> <use href="#eye"/> <use href="#dot"/> </g>
+         <!-- V Nose -->
+         <polyline points="45,60 50,70 55,60" fill="none" stroke="black" stroke-width="2"/>
+         <!-- Mouth -->
+         <path d="M 35 80 Q 50 90 65 80" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+      
+      <!-- Option 4 -->
+      <g transform="translate(450, 0)">
+         <text x="-30" y="50" font-family="Arial" font-size="16">(4)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+          <!-- 2 Arcs (Higher) -->
+          <g transform="translate(50, 20)">
+              <path d="M -15 0 Q 0 -10 15 0" fill="none" stroke="black" stroke-width="2"/>
+              <path d="M -10 5 Q 0 -2 10 5" fill="none" stroke="black" stroke-width="2"/>
+         </g>
+         <!-- Eyes with Dots (Looking right?) -->
+          <g transform="translate(30, 45)"> <use href="#eye"/> <circle cx="4" cy="0" r="3" fill="black"/> </g>
+          <g transform="translate(70, 45)"> <use href="#eye"/> <circle cx="4" cy="0" r="3" fill="black"/> </g>
+          <!-- V Nose -->
+         <polyline points="45,60 50,70 55,60" fill="none" stroke="black" stroke-width="2"/>
+          <!-- Mouth -->
+         <path d="M 35 80 Q 50 90 65 80" fill="none" stroke="black" stroke-width="2"/>
+      </g>
+  </g>
+</svg>

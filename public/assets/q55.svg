@@ -1,0 +1,56 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white" />
+  
+  <text x="50" y="30" font-family="Arial" font-size="20">Problem Figure:</text>
+  
+  <g transform="translate(150, 50)">
+      <!-- Main Outer Box -->
+      <rect x="0" y="0" width="300" height="200" fill="none" stroke="black" stroke-width="2"/>
+      
+      <!-- Center Lines -->
+      <line x1="150" y1="0" x2="150" y2="200" stroke="black" stroke-width="2"/>
+      <line x1="0" y1="100" x2="300" y2="100" stroke="black" stroke-width="2"/>
+      
+      <!-- Diagonals -->
+      <line x1="0" y1="0" x2="300" y2="200" stroke="black" stroke-width="2"/>
+      <line x1="300" y1="0" x2="0" y2="200" stroke="black" stroke-width="2"/>
+      
+      <!-- Text Elements -->
+      <!-- Font settings -->
+      <g font-family="Arial" font-size="18" text-anchor="middle" dominant-baseline="middle">
+          
+          <!-- Box 1 (Top Left) -->
+          <text x="75" y="25">C</text>
+          <text x="35" y="50">A</text>
+          <text x="115" y="50" font-weight="bold">?</text> <!-- Missing Number -->
+          <text x="75" y="75">80</text>
+          
+          <!-- Box 2 (Top Right) -->
+          <text x="225" y="25">C</text>
+          <text x="185" y="50">44</text>
+          <text x="265" y="50">F</text>
+          <text x="225" y="75">31</text>
+          
+          <!-- Box 3 (Bottom Left) -->
+          <text x="75" y="125">5</text>
+          <text x="35" y="150" font-weight="bold">?</text> <!-- Missing Letter -->
+          <text x="115" y="150">8</text>
+          <text x="75" y="175">G</text>
+          
+          <!-- Box 4 (Bottom Right) -->
+          <text x="225" y="125">20</text>
+          <text x="185" y="150">13</text>
+          <text x="265" y="150">E</text>
+          <text x="225" y="175">I</text>
+      </g>
+  </g>
+
+   <text x="50" y="280" font-family="Arial" font-size="20">Options:</text>
+   
+   <g transform="translate(50, 310)">
+       <text x="0" y="0" font-family="Arial" font-size="16">(1) 59 and K</text>
+       <text x="150" y="0" font-family="Arial" font-size="16">(2) 61 and L</text>
+       <text x="300" y="0" font-family="Arial" font-size="16">(3) 61 and K</text>
+       <text x="450" y="0" font-family="Arial" font-size="16">(4) 59 and L</text>
+   </g>
+</svg>

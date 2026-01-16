@@ -1,0 +1,68 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#000" />
+    </marker>
+  </defs>
+
+  <text x="50" y="30" font-family="Arial" font-size="20">Problem Figures:</text>
+  
+  <g transform="translate(50, 50)">
+      <!-- Step 1: Fold Left -->
+      <rect x="0" y="0" width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+      <line x1="50" y1="0" x2="50" y2="100" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
+      <path d="M 80 50 Q 65 30 40 50" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+      <text x="45" y="115" font-family="Arial" font-size="14">(X)</text>
+
+      <!-- Step 2: Fold Down -->
+      <g transform="translate(120, 0)">
+          <rect x="0" y="0" width="50" height="100" fill="none" stroke="black" stroke-width="2"/>
+          <line x1="0" y1="50" x2="50" y2="50" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
+          <path d="M 25 20 Q 40 35 25 60" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+          <text x="20" y="115" font-family="Arial" font-size="14">(Y)</text>
+      </g>
+      
+      <!-- Step 3: Punch -->
+      <g transform="translate(200, 0)">
+          <rect x="0" y="50" width="50" height="50" fill="none" stroke="black" stroke-width="2"/>
+          <circle cx="25" cy="75" r="5" fill="black"/> <!-- Center punch -->
+          <text x="20" y="115" font-family="Arial" font-size="14">(Z)</text>
+      </g>
+  </g>
+
+  <text x="50" y="200" font-family="Arial" font-size="20">Answer Figures:</text>
+  
+  <g transform="translate(50, 230)">
+      <!-- Option 1: 4 holes -->
+      <g>
+         <text x="-30" y="50" font-family="Arial" font-size="16">(1)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+         <circle cx="25" cy="25" r="5" fill="black"/>
+         <circle cx="75" cy="25" r="5" fill="black"/>
+         <circle cx="25" cy="75" r="5" fill="black"/>
+         <circle cx="75" cy="75" r="5" fill="black"/>
+      </g>
+      
+      <!-- Option 2: 2 holes -->
+      <g transform="translate(150, 0)">
+         <text x="-30" y="50" font-family="Arial" font-size="16">(2)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+         <circle cx="25" cy="75" r="5" fill="black"/>
+         <circle cx="75" cy="75" r="5" fill="black"/>
+      </g>
+      
+      <!-- Option 3: Center large hole -->
+      <g transform="translate(300, 0)">
+         <text x="-30" y="50" font-family="Arial" font-size="16">(3)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+         <circle cx="50" cy="50" r="10" fill="black"/>
+      </g>
+      
+      <!-- Option 4: 1 hole -->
+      <g transform="translate(450, 0)">
+         <text x="-30" y="50" font-family="Arial" font-size="16">(4)</text>
+         <rect width="100" height="100" fill="none" stroke="black" stroke-width="2"/>
+         <circle cx="25" cy="75" r="5" fill="black"/>
+      </g>
+  </g>
+</svg>

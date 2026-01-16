@@ -29,7 +29,7 @@ body {
   padding: 20px;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .app-header {
@@ -105,6 +105,15 @@ body {
   font-size: 0.8rem;
   font-weight: 700;
   color: white;
+}
+
+.source-badge {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.05);
+  padding: 4px 8px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .question-text {
@@ -376,6 +385,48 @@ button:disabled {
   margin-top: 0;
   color: #a78bfa;
   font-size: 1.1rem;
+  margin-bottom: 12px;
+}
+
+.explanation-content {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.explanation-step {
+  margin-bottom: 4px;
+}
+
+.explanation-step.bullet {
+  display: flex;
+  gap: 8px;
+  padding-left: 8px;
+}
+
+.bullet-point {
+  color: #a78bfa;
+  font-weight: bold;
+}
+
+.explanation-step.numbered {
+  margin-top: 12px;
+  margin-bottom: 8px;
+  color: #a78bfa;
+  /* Highlight numbered steps */
+  font-weight: 500;
+}
+
+.explanation-step.numbered strong {
+  color: white;
+}
+
+.explanation-spacer {
+  height: 8px;
+}
+
+.explanation-text strong {
+  color: #a78bfa;
 }
 
 /* Mobile Responsiveness */

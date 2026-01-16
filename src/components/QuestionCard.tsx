@@ -7,6 +7,7 @@ interface Question {
     isFigure: boolean;
     correctAnswerIndex?: number;
     explanation?: string;
+    source?: string;
 }
 
 interface QuestionCardProps {
@@ -52,8 +53,17 @@ const QuestionCard: React.FC<QuestionCardProps> = ({ question, selectedOption, o
     return (
         <div className="question-card">
             <div className="question-header">
-                <span className="question-number">Q{question.id}</span>
-                {mode === 'study' && <span className="mode-badge">Study Mode</span>}
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%', marginBottom: '16px' }}>
+                    <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
+                        <span className="question-number">Q{question.id}</span>
+                        {question.source && (
+                            <span className="source-badge">
+                                📄 {question.source}
+                            </span>
+                        )}
+                    </div>
+                    {mode === 'study' && <span className="mode-badge">Study Mode</span>}
+                </div>
             </div>
             <p className="question-text">{question.text}</p>
 
@@ -94,7 +104,47 @@ const QuestionCard: React.FC<QuestionCardProps> = ({ question, selectedOption, o
             {mode === 'study' && showExplanation && (
                 <div className="explanation-card">
                     <h3>Explanation</h3>
-                    <p style={{ whiteSpace: 'pre-line' }}>{question.explanation}</p>
+                    <div className="explanation-content">
+                        {question.explanation?.split('\n').map((line, i) => {
+                            // Check for bold notation **text**
+                            const parseBold = (text: string) => {
+                                const parts = text.split(/(\*\*.*?\*\*)/g);
+                                return parts.map((part, index) => {
+                                    if (part.startsWith('**') && part.endsWith('**')) {
+                                        return <strong key={index}>{part.slice(2, -2)}</strong>;
+                                    }
+                                    return part;
+                                });
+                            };
+
+                            // Bullet points
+                            if (line.trim().startsWith('- ')) {
+                                return (
+                                    <div key={i} className="explanation-step bullet">
+                                        <span className="bullet-point">•</span>
+                                        <span>{parseBold(line.trim().substring(2))}</span>
+                                    </div>
+                                );
+                            }
+
+                            // Numbered lists (e.g., "1. ")
+                            if (/^\d+\.\s/.test(line.trim())) {
+                                return (
+                                    <div key={i} className="explanation-step numbered">
+                                        {parseBold(line)}
+                                    </div>
+                                );
+                            }
+
+                            // Empty lines
+                            if (!line.trim()) {
+                                return <div key={i} className="explanation-spacer"></div>;
+                            }
+
+                            // Standard text
+                            return <div key={i} className="explanation-text">{parseBold(line)}</div>;
+                        })}
+                    </div>
                 </div>
             )}
         </div>

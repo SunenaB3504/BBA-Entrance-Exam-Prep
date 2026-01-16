@@ -10,7 +10,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Follow BODMAS (Bracket, Order, Division, Multiplication, Addition, Subtraction).\n\n1. Division: 24 ÷ 4 = 6\n2. Multiplication: 6 × 2 = 12\n3. Addition: 12 + 8 = 20\n4. Subtraction: 20 – 4 = 16\n\nTherefore, the correct answer is 16."
+    "explanation": "Follow BODMAS (Bracket, Order, Division, Multiplication, Addition, Subtraction).\n\n1. Division: 24 ÷ 4 = 6\n2. Multiplication: 6 × 2 = 12\n3. Addition: 12 + 8 = 20\n4. Subtraction: 20 – 4 = 16\n\nTherefore, the correct answer is 16.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Convert to decimals to find greatest and smallest:\n1/2 = 0.50\n8/11 ≈ 0.72\n7/8 = 0.875 (Greatest)\n7/9 ≈ 0.77\n5/6 ≈ 0.83\n\nSmallest is 1/2.\nGreatest is 7/8.\n\nDifference = 7/8 - 1/2 = 7/8 - 4/8 = 3/8."
+    "explanation": "Convert to decimals to find greatest and smallest:\n1/2 = 0.50\n8/11 ≈ 0.72\n7/8 = 0.875 (Greatest)\n7/9 ≈ 0.77\n5/6 ≈ 0.83\n\nSmallest is 1/2.\nGreatest is 7/8.\n\nDifference = 7/8 - 1/2 = 7/8 - 4/8 = 3/8.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 21,
@@ -270,7 +290,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 22,
@@ -283,7 +304,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 23,
@@ -296,7 +318,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 24,
@@ -309,7 +332,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 25,
@@ -322,7 +346,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 26,
@@ -335,7 +360,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 27,
@@ -348,7 +374,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 28,
@@ -361,7 +388,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 29,
@@ -374,7 +402,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 30,
@@ -387,7 +416,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 31,
@@ -400,7 +430,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 32,
@@ -413,7 +444,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 33,
@@ -426,7 +458,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 34,
@@ -439,7 +472,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 35,
@@ -452,7 +486,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 36,
@@ -465,7 +500,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 37,
@@ -478,7 +514,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 38,
@@ -491,7 +528,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 39,
@@ -504,7 +542,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 40,
@@ -517,7 +556,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 41,
@@ -530,7 +570,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 42,
@@ -543,7 +584,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 43,
@@ -556,7 +598,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 44,
@@ -569,7 +612,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 45,
@@ -582,7 +626,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 46,
@@ -595,7 +640,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 47,
@@ -608,7 +654,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 48,
@@ -621,7 +668,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 49,
@@ -634,7 +682,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 50,
@@ -647,7 +696,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 51,
@@ -660,7 +710,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 1,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 52,
@@ -673,7 +724,8 @@
     ],
     "isFigure": true,
     "correctAnswerIndex": 1,
-    "explanation": "1. **Analyze the Rows:**\n   - Row 1: A box with 3 figures, then 1 figure, then 2 figures. (Difference: 3 - 1 = 2)\n   - Row 2: A box with 2 figures, then 1 figure, then 1 figure. (Difference: 2 - 1 = 1)\n   - Row 3: A box with 2 figures, then 2 figures.\n\n2. **Apply the Logic:**\n   - Following the subtraction pattern (Col 1 - Col 2 = Col 3): 2 - 2 = 0.\n\n3. **Conclusion:**\n   - The third box in the last row should contain **0 figures** (an empty box).\n   - This corresponds to **Option (2)**."
+    "explanation": "1. **Analyze the Rows:**\n   - Row 1: A box with 3 figures, then 1 figure, then 2 figures. (Difference: 3 - 1 = 2)\n   - Row 2: A box with 2 figures, then 1 figure, then 1 figure. (Difference: 2 - 1 = 1)\n   - Row 3: A box with 2 figures, then 2 figures.\n\n2. **Apply the Logic:**\n   - Following the subtraction pattern (Col 1 - Col 2 = Col 3): 2 - 2 = 0.\n\n3. **Conclusion:**\n   - The third box in the last row should contain **0 figures** (an empty box).\n   - This corresponds to **Option (2)**.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 53,
@@ -686,7 +738,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 54,
@@ -699,7 +752,8 @@
     ],
     "isFigure": true,
     "correctAnswerIndex": 2,
-    "explanation": "1. **Unfolding Step 1 (Z to Y):**\n   - The folded triangle is unfolded along the vertical edge. The cuts on the centerline duplicate to form a diamond shape of 4 holes in the center.\n\n2. **Unfolding Step 2 (Y to X):**\n   - The paper is unfolded diagonally. The hole punched in the corner duplicates to all four corners of the square.\n\n3. **Final Pattern:**\n   - A central cluster of 4 holes (diamond shape).\n   - 4 individual holes at the corners.\n   - This matches **Option (3)**."
+    "explanation": "1. **Unfolding Step 1 (Z to Y):**\n   - The folded triangle is unfolded along the vertical edge. The cuts on the centerline duplicate to form a diamond shape of 4 holes in the center.\n\n2. **Unfolding Step 2 (Y to X):**\n   - The paper is unfolded diagonally. The hole punched in the corner duplicates to all four corners of the square.\n\n3. **Final Pattern:**\n   - A central cluster of 4 holes (diamond shape).\n   - 4 individual holes at the corners.\n   - This matches **Option (3)**.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 55,
@@ -712,7 +766,8 @@
     ],
     "isFigure": true,
     "correctAnswerIndex": 2,
-    "explanation": "1. **Analyze the Grid Quadrants:**\n   - The grid consists of 4 squaress. Observe the diagonal relationship between the boxes.\n\n2. **Missing Letter (Box 3 Left):**\n   - Observe Box 2 (Top-Right) Left Value: **44**.\n   - Observe Box 3 (Bottom-Left) Left Value: **?**.\n   - Relationship: Divide the diagonal partner by 4.\n   - 44 ÷ 4 = 11.\n   - The 11th letter of the alphabet is **K**.\n\n3. **Missing Number (Box 1 Right):**\n   - Observe Box 4 (Bottom-Right) values vs Box 1.\n   - Using the specific complex matrix logic for this puzzle type, the calculation yield 61.\n\n4. **Conclusion:**\n   - The missing values are **61** and **K**.\n   - This matches **Option (3)**."
+    "explanation": "1. **Analyze the Grid Quadrants:**\n   - The grid consists of 4 squaress. Observe the diagonal relationship between the boxes.\n\n2. **Missing Letter (Box 3 Left):**\n   - Observe Box 2 (Top-Right) Left Value: **44**.\n   - Observe Box 3 (Bottom-Left) Left Value: **?**.\n   - Relationship: Divide the diagonal partner by 4.\n   - 44 ÷ 4 = 11.\n   - The 11th letter of the alphabet is **K**.\n\n3. **Missing Number (Box 1 Right):**\n   - Observe Box 4 (Bottom-Right) values vs Box 1.\n   - Using the specific complex matrix logic for this puzzle type, the calculation yield 61.\n\n4. **Conclusion:**\n   - The missing values are **61** and **K**.\n   - This matches **Option (3)**.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 56,
@@ -725,7 +780,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 57,
@@ -738,7 +794,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 3,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 58,
@@ -751,7 +808,8 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 2,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 59,
@@ -764,7 +822,8 @@
     ],
     "isFigure": true,
     "correctAnswerIndex": 0,
-    "explanation": "1. **Analyze the Pieces in Problem Figure:**\n   - **Two Circles** (Eyes).\n   - **Three Upward Arcs** (Forehead wrinkles/hair).\n   - **One Inverted Triangle containing Two Dots** (Nose + Pupils).\n\n2. **Analyze Answer Figures:**\n   - **Option (1)**: Contains exactly **3 arcs** on the forehead, **2 circles** for eyes with the **2 dots** inside them (pupils), and a **triangle** for the nose.\n   - **Option (2)**: Only 2 arcs. Empty eyes. Wrong.\n   - **Option (3)**: Only 2 arcs. Wrong.\n   - **Option (4)**: Only 2 arcs. Wrong.\n\n3. **Conclusion:**\n   - Only **Option (1)** uses all the specific pieces (especially the 3 arcs and the dots/triangle combination) correctly.\n   - The mouth curve is likely formed by the third arc or implied as a standard face component component in this puzzle type."
+    "explanation": "1. **Analyze the Pieces in Problem Figure:**\n   - **Two Circles** (Eyes).\n   - **Three Upward Arcs** (Forehead wrinkles/hair).\n   - **One Inverted Triangle containing Two Dots** (Nose + Pupils).\n\n2. **Analyze Answer Figures:**\n   - **Option (1)**: Contains exactly **3 arcs** on the forehead, **2 circles** for eyes with the **2 dots** inside them (pupils), and a **triangle** for the nose.\n   - **Option (2)**: Only 2 arcs. Empty eyes. Wrong.\n   - **Option (3)**: Only 2 arcs. Wrong.\n   - **Option (4)**: Only 2 arcs. Wrong.\n\n3. **Conclusion:**\n   - Only **Option (1)** uses all the specific pieces (especially the 3 arcs and the dots/triangle combination) correctly.\n   - The mouth curve is likely formed by the third arc or implied as a standard face component component in this puzzle type.",
+    "source": "CUET-GAT-2024"
   },
   {
     "id": 60,
@@ -777,6 +836,49 @@
     ],
     "isFigure": false,
     "correctAnswerIndex": 0,
-    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer."
+    "explanation": "Detailed step-by-step solution will be provided here. This includes the formula used, the calculation steps, and the final verification of the answer.",
+    "source": "CUET-GAT-2024"
+  },
+  {
+    "id": 61,
+    "text": "Select a figure from the Answer Figures which will continue the same series as established by the Problem Figures. [Figure]",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "isFigure": true,
+    "correctAnswerIndex": 0,
+    "explanation": "1. **Analyze the Series Pattern:**\n   - **Number of Arrows:** Increases by 1 in each step (1 -> 2 -> 3 -> 4).\n   - **Direction:** Rotates 90° clockwise in each step (North -> East -> South -> West).\n\n2. **Conclusion:**\n   - The next figure must have **4 arrows** pointing **West**.\n   - This matches **Option (1)**.",
+    "source": "AI_GENERATED"
+  },
+  {
+    "id": 62,
+    "text": "Choose the figure which is different from the rest. [Figure]",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "isFigure": true,
+    "correctAnswerIndex": 3,
+    "explanation": "1. **Analyze the Relationship (Inner vs Outer Figure):**\n   - Option (1): Triangle (3 sides) inside Square (4 sides). Difference = 1.\n   - Option (2): Square (4 sides) inside Pentagon (5 sides). Difference = 1.\n   - Option (3): Pentagon (5 sides) inside Hexagon (6 sides). Difference = 1.\n   - Option (4): Hexagon (6 sides) inside Octagon (8 sides). Difference = 8 - 6 = **2**.\n\n2. **Conclusion:**\n   - **Option (4)** is the odd one out because the difference in the number of sides is 2, while for all others it is 1.",
+    "source": "AI_GENERATED"
+  },
+  {
+    "id": 63,
+    "text": "A piece of paper is folded and punched as shown below in the pattern figures. From the given answer figures, indicate how it will appear when opened. [Figure]",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "isFigure": true,
+    "correctAnswerIndex": 0,
+    "explanation": "1. **Analyze the Folding:**\n   - Step 1: Folded right to left (Half).\n   - Step 2: Folded top to bottom (Quarter).\n   - Result: A square representing 1/4th of the paper.\n\n2. **Analyze the Punch:**\n   - A single hole is punched in the center of this folded quarter.\n\n3. **Visualise Unfolding:**\n   - Unfold Vertical: The hole mirrors upwards (Total 2 holes).\n   - Unfold Horizontal: The 2 vertical holes mirror to the right (Total 4 holes).\n\n4. **Conclusion:**\n   - The final paper will have **4 holes** arranged symmetrically.\n   - This matches **Option (1)**.",
+    "source": "AI_GENERATED"
   }
 ]

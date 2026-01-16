@@ -21,8 +21,8 @@ function App() {
   const [category, setCategory] = useState<'all' | 'visual'>('all');
 
   useEffect(() => {
-    // Filter valid questions 1-60
-    const validQuestions = questionsData.filter((q: any) => q.id >= 1 && q.id <= 60).slice(0, 60);
+    // Filter questions - allow all questions in the dataset
+    const validQuestions = questionsData;
     setQuestions(validQuestions);
   }, []);
 

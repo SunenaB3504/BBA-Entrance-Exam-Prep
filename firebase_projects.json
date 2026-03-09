@@ -1,0 +1,18 @@
+- Preparing the list of your Firebase projects
+Γ£ö Preparing the list of your Firebase projects
+{
+  "status": "success",
+  "result": [
+    {
+      "projectId": "studio-3499341239-cb919",
+      "projectNumber": "784698969972",
+      "displayName": "Firebase app",
+      "name": "projects/studio-3499341239-cb919",
+      "resources": {
+        "hostingSite": "studio-3499341239-cb919"
+      },
+      "state": "ACTIVE",
+      "etag": "1_b26a2838-a482-443e-a262-e0f3b089f324"
+    }
+  ]
+}

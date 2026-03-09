@@ -141,78 +141,80 @@ const EngStrategyHub: React.FC = () => {
                             onClick={() => setActivePlaybookTab(tab.id as PlaybookTab)}
                         >
                             {tab.label}
-                        </button>
-                    ))}
-                </div>
+                </button>
+            ))}
+        </div>
 
-                <div className="eng-pb-content">
-                    <div className="prose">
-                        <h4 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '1rem' }}>{content.title}</h4>
-                        <p style={{ color: '#475569', fontSize: '0.9rem', marginBottom: '1rem' }}>{content.intro}</p>
+        <div className="eng-pb-content">
+            <div className="prose">
+                <h4 style={{ fontSize: '1.25rem', fontWeight: 700, marginBottom: '1rem' }}>{content?.title}</h4>
+                <p style={{ color: '#475569', fontSize: '0.9rem', marginBottom: '1rem' }}>{content?.intro}</p>
 
-                        {content.steps && (
-                            <ul style={{ paddingLeft: '1.25rem', marginBottom: '1.5rem', color: '#334155' }}>
-                                {content.steps.map((step, i) => (
-                                    <li key={i} style={{ marginBottom: '0.5rem' }}>{step}</li>
-                                ))}
-                            </ul>
-                        )}
+                {content && 'steps' in content && content.steps && (
+                    <ul style={{ paddingLeft: '1.25rem', marginBottom: '1.5rem', color: '#334155' }}>
+                        {(content.steps as string[]).map((step, i) => (
+                            <li key={i} style={{ marginBottom: '0.5rem' }}>{step}</li>
+                        ))}
+                    </ul>
+                )}
 
-                        {content.definitions && (
-                            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.5rem', marginTop: '1rem' }}>
-                                {content.definitions.map((def, i) => (
-                                    <div key={i} style={{ background: '#f9fafb', padding: '0.75rem', borderRadius: '0.25rem', border: '1px solid #e5e7eb', fontSize: '0.8rem' }}>
-                                        <strong>{def.term}:</strong> {def.def} <br />
-                                        <em style={{ color: '#64748b' }}>Ex: "{def.ex}"</em>
-                                    </div>
-                                ))}
+                {content && 'definitions' in content && content.definitions && (
+                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.5rem', marginTop: '1rem' }}>
+                        {(content.definitions as any[]).map((def, i) => (
+                            <div key={i} style={{ background: '#f9fafb', padding: '0.75rem', borderRadius: '0.25rem', border: '1px solid #e5e7eb', fontSize: '0.8rem' }}>
+                                <strong>{def.term}:</strong> {def.def} <br />
+                                <em style={{ color: '#64748b' }}>Ex: "{def.ex}"</em>
                             </div>
-                        )}
+                        ))}
+                    </div>
+                )}
 
-                        {content.exampleBox && (
-                            <div className="eng-example-box">
-                                <h5 style={{ fontWeight: 700, color: '#854d0e', fontSize: '0.875rem' }}>{content.exampleBox.title}</h5>
-                                <p style={{ fontSize: '0.8rem', color: '#a16207', margin: '0.5rem 0' }}>{content.exampleBox.content}</p>
-                                {content.exampleBox.strategy && (
-                                    <p style={{ fontSize: '0.8rem', color: '#a16207' }}><strong>Strategy:</strong> {content.exampleBox.strategy}</p>
-                                )}
-                            </div>
+                {content && 'exampleBox' in content && content.exampleBox && (
+                    <div className="eng-example-box">
+                        <h5 style={{ fontWeight: 700, color: '#854d0e', fontSize: '0.875rem' }}>{(content.exampleBox as any).title}</h5>
+                        <p style={{ fontSize: '0.8rem', color: '#a16207', margin: '0.5rem 0' }}>{(content.exampleBox as any).content}</p>
+                        {(content.exampleBox as any).strategy && (
+                            <p style={{ fontSize: '0.8rem', color: '#a16207' }}><strong>Strategy:</strong> {(content.exampleBox as any).strategy}</p>
                         )}
                     </div>
-
-                    <div className="eng-quiz-card">
-                        <h4 style={{ fontSize: '1.125rem', fontWeight: 700, marginBottom: '1rem' }}>Sample Question</h4>
-                        <p style={{ fontSize: '0.9rem', fontWeight: 500, marginBottom: '1rem' }}>{content.sampleQuestion.question}</p>
-
-                        <div>
-                            {content.sampleQuestion.options.map((opt, i) => {
-                                let btnClass = "eng-quiz-opt";
-                                if (qAnswer !== undefined) {
-                                    if (i === content.sampleQuestion.correct) btnClass += " correct";
-                                    else if (i === qAnswer) btnClass += " wrong";
-                                }
-
-                                return (
-                                    <button
-                                        key={i}
-                                        className={btnClass}
-                                        onClick={() => handleQuizAnswer(activePlaybookTab, i)}
-                                        disabled={qAnswer !== undefined}
-                                    >
-                                        {opt}
-                                    </button>
-                                );
-                            })}
-                        </div>
-                        {qAnswer !== undefined && (
-                            <div style={{ marginTop: '0.75rem', fontSize: '0.8rem', color: qAnswer === content.sampleQuestion.correct ? '#059669' : '#0f172a' }}>
-                                {content.sampleQuestion.feedback}
-                            </div>
-                        )}
-                    </div>
-                </div>
+                )}
             </div>
-        );
+
+            {content && content.sampleQuestion && (
+                <div className="eng-quiz-card">
+                    <h4 style={{ fontSize: '1.125rem', fontWeight: 700, marginBottom: '1rem' }}>Sample Question</h4>
+                    <p style={{ fontSize: '0.9rem', fontWeight: 500, marginBottom: '1rem' }}>{content.sampleQuestion.question}</p>
+
+                    <div>
+                        {content.sampleQuestion.options.map((opt, i) => {
+                            let btnClass = "eng-quiz-opt";
+                            if (qAnswer !== undefined) {
+                                if (i === content.sampleQuestion.correct) btnClass += " correct";
+                                else if (i === qAnswer) btnClass += " wrong";
+                            }
+
+                            return (
+                                <button
+                                    key={i}
+                                    className={btnClass}
+                                    onClick={() => handleQuizAnswer(activePlaybookTab, i)}
+                                    disabled={qAnswer !== undefined}
+                                >
+                                    {opt}
+                                </button>
+                            );
+                        })}
+                    </div>
+                    {qAnswer !== undefined && (
+                        <div style={{ marginTop: '0.75rem', fontSize: '0.8rem', color: qAnswer === content.sampleQuestion.correct ? '#059669' : '#0f172a' }}>
+                            {content.sampleQuestion.feedback}
+                        </div>
+                    )}
+                </div>
+            )}
+        </div>
+    </div>
+);
     };
 
     const renderSimulator = () => (

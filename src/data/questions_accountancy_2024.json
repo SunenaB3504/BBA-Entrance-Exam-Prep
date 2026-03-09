@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "text": "Libraries run by charitable trusts are an example of :",
+        "options": [
+            "Partnership",
+            "Not for profit organisation",
+            "Companies",
+            "Cooperatives"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Accounting for Not-for-Profit Organisations\n\n**Detailed Explanation:**\n- **Not-for-Profit Organisations (NPO)** are entities set up for the welfare of society or for the promotion of art, culture, education, etc., and not for earning profits.\n- Examples include schools, hospitals, religious organizations, and **libraries run by charitable trusts**.\n- Their primary objective is service rather than profit maximization.\n\n**Why other options are incorrect:**\n- **Partnership, Companies, and Cooperatives** (trading) are typically business entities formed with the primary objective of earning profit (though Cooperatives also have a service motive, Charitable Trusts specifically fall under NPO)."
+    },
+    {
+        "id": 2,
+        "text": "The main source of revenue for 'not for profit' organisation is :",
+        "options": [
+            "Sale of goods",
+            "Sale of periodicals",
+            "Subscription from members",
+            "Sale of assets"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Accounting for Not-for-Profit Organisations\n\n**Detailed Explanation:**\n- The main source of income for a Not-for-Profit Organisation is usually **subscriptions from members**, donations, government grants, and income from investments.\n- **Subscriptions** are the regular payments made by members to keep their membership alive.\n\n**Why other options are incorrect:**\n- **Sale of goods:** NPOs are not primarily trading concerns.\n- **Sale of periodicals:** This is an incidental source of income, not the main one.\n- **Sale of assets:** This is a capital receipt (sale of fixed assets) and not a regular revenue source."
+    },
+    {
+        "id": 3,
+        "text": "Match List-I with List-II.\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Share capital | (I) Will be called at the time of winding up |\n| (B) Reserves and surplus | (II) Calls in advance |\n| (C) Reserve capital | (III) Subscribed but not fully paid |\n| (D) Current liabilities | (IV) Sinking fund |\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)",
+            "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+            "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Accounting for Share Capital & Financial Statements\n\n**Detailed Explanation:**\n- **(A) Share Capital matches (III) Subscribed but not fully paid:** Subscribed capital is that part of issued capital which has been subscribed for by the public. It includes fully paid and not fully paid shares.\n- **(B) Reserves and Surplus matches (IV) Sinking Fund:** Sinking fund is a specific reserve created for a specific purpose (e.g., redemption of debentures), shown under Reserves and Surplus.\n- **(C) Reserve Capital matches (I) Will be called at the time of winding up:** Reserve Capital is that portion of uncalled share capital which shall not be capable of being called up except in the event of winding up.\n- **(D) Current Liabilities matches (II) Calls in advance:** Calls in advance are moneys received by the company in excess of what has been called up, shown under Current Liabilities (Other Current Liabilities)."
+    },
+    {
+        "id": 4,
+        "text": "Which of the following would affect the Revaluation Account at the time of reconstitution of a partnership firm ?",
+        "options": [
+            "Increase in assets",
+            "Drawings against capital",
+            "Interest on capital",
+            "Parntner's salary"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Reconstitution of Partnership Firm\n\n**Detailed Explanation:**\n- **Revaluation Account** is prepared to record the effect of revaluation of assets and reassessment of liabilities at the time of reconstitution (admission, retirement, death).\n- **Increase in assets** is credited to the Revaluation Account as it represents a gain.\n\n**Why other options are incorrect:**\n- **Drawings against capital, Interest on capital, and Partner's salary** are items related to the partners' personal accounts and are recorded in the Partners' Capital or Current Accounts and the Profit & Loss Appropriation Account, not the Revaluation Account."
+    },
+    {
+        "id": 5,
+        "text": "Identify the correct sequence to be followed while preparing of final account of a partnership firm :\n(A) Profit and Loss Appropriation Account\n(B) Profit and Loss Account\n(C) Trading Account\n(D) Balance Sheet\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(C), (B), (A), (D)",
+            "(A), (C), (B), (D)",
+            "(B), (A), (D), (C)",
+            "(C), (B), (D), (A)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Financial Statements of a Partnership Firm\n\n**Detailed Explanation:**\n- The logical sequence for preparing final accounts is:\n1.  **Trading Account (C):** Prepared first to ascertain Gross Profit/Gross Loss.\n2.  **Profit and Loss Account (B):** Prepared next to ascertain Net Profit/Net Loss.\n3.  **Profit and Loss Appropriation Account (A):** Prepared after P&L A/c to distribute the Net Profit among partners (interest on capital, salary, commission, etc.).\n4.  **Balance Sheet (D):** Prepared last to show the financial position (Assets and Liabilities) of the firm.\n\n- Therefore, the correct sequence is **(C) -> (B) -> (A) -> (D)**."
+    },
+    {
+        "id": 6,
+        "text": "Window dressing is a practice",
+        "options": [
+            "to manipulate the accounts to show a better picture of the financial position than the actual one.",
+            "to show excesive depreciaton.",
+            "to avoid tax.",
+            "to reduce tax."
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Analysis of Financial Statements\n\n**Detailed Explanation:**\n- **Window Dressing** refers to the practice of manipulating the books of accounts to show a better (or desired) financial position than what actually exists.\n- This is done to attract investors, hide losses, or maintain creditworthiness.\n- It is considered a limitation of financial analysis because the analysis based on 'window dressed' statements will not depict the true and fair view of the enterprise."
+    },
+    {
+        "id": 7,
+        "text": "Match List-I with List-II.\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Salary to partner | (I) Credit side of Partner's Capital Account |\n| (B) Interest on partner's loan | (II) Debit side of Partner's Current Accont |\n| (C) Interest on partner's drawings | (III) Debit side of Profit and Loss Account |\n| (D) Additional capital introduced | (IV) Credit side of Partner's Current Account |\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)",
+            "(A) - (IV), (B) - (III), (C) - (II), (D) - (I)",
+            "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Accounting for Partnership Firms - Basic Concepts\n\n**Detailed Explanation:**\n- **(A) Salary to partner:** It is an appropriation of profit. Under Fixed Capital Method, it is credited to **(IV) Partner's Current Account**.\n- **(B) Interest on partner's loan:** It is a charge against profit (not an appropriation). It is debited to the **(III) Profit and Loss Account**.\n- **(C) Interest on partner's drawings:** It is a gain for the firm and an expense for the partner. It is debited to **(II) Partner's Current Account** (or Capital Account).\n- **(D) Additional capital introduced:** It increases the capital balance. Even under Fixed Capital Method, permanent additions to capital are credited to **(I) Partner's Capital Account**."
+    },
+    {
+        "id": 8,
+        "text": "Which of the following would affect the Revaluation Account at the time of admission of a partner ?\n(A) Increase in assets\n(B) Drawings against capital\n(C) Recording of unrecorded assets\n(D) Decrease in liabilities\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B) and (C) only",
+            "(A), (B) and (D) only",
+            "(A), (C) and (D) only",
+            "(B), (C) and (D) only"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Admission of a Partner\n\n**Detailed Explanation:**\n- **Revaluation Account** is used to record changes in the value of assets and liabilities.\n- **(A) Increase in assets:** Credited to Revaluation A/c (Gain).\n- **(C) Recording of unrecorded assets:** Credited to Revaluation A/c (Gain, as asset increases from zero).\n- **(D) Decrease in liabilities:** Credited to Revaluation A/c (Gain).\n- **(B) Drawings against capital:** This involves the partner withdrawing their invested capital. It is debited to the Partner's Capital Account and does not affect the Revaluation Account.\n\n- Therefore, **(A), (C), and (D)** affect the Revaluation Account."
+    },
+    {
+        "id": 9,
+        "text": "Match List-I with List-II.\n\n| List-I (Items of cash flow) | List-II (Type of activity) |\n| :--- | :--- |\n| (A) Purchase of tangible assets | (I) Operating activity |\n| (B) Issue of shares | (II) Cash and cash equivalents |\n| (C) Increase in current assets | (III) Investing activity |\n| (D) Marketable securities | (IV) Financing activity |\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)",
+            "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+            "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Cash Flow Statement\n\n**Detailed Explanation:**\n- **(A) Purchase of tangible assets:** Outflow for acquiring long-term assets is an **(III) Investing activity**.\n- **(B) Issue of shares:** Inflow of funds from owners is a **(IV) Financing activity**.\n- **(C) Increase in current assets:** Changes in working capital items (Current Assets/Liabilities) are adjusted in **(I) Operating activity**.\n- **(D) Marketable securities:** Short-term, highly liquid investments are considered **(II) Cash and cash equivalents**."
+    },
+    {
+        "id": 10,
+        "text": "Which one of the following are correct in connection with the Common Size Statement ?\n(A) Expressed as a percentage on revenue from operation\n(B) Horizontal analysis\n(C) Vertical analysis\n(D) Expressed as a percentage on total assets\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B) and (D) only",
+            "(A), (B) and (C) only",
+            "(A), (C) and (D) only",
+            "(B), (C) and (D) only"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Analysis of Financial Statements\n\n**Detailed Explanation:**\n- **Common Size Statements** express each item of the financial statement as a percentage of a common base.\n- For **Income Statement**, the base is **Revenue from Operations** (A).\n- For **Balance Sheet**, the base is **Total Assets** (or Total Equities and Liabilities) (D).\n- Common Size Analysis is a form of **Vertical Analysis (C)** because it analyzes the relationship between items in the same year's statement.\n- **Horizontal Analysis (B)** refers to Comparative Statements where data is compared across multiple years.\n\n- Therefore, **(A), (C), and (D)** are correct."
+    },
+    {
+        "id": 11,
+        "text": "Calculate the resulting cash flow and state the nature of cash flow from the following information :\nAcquired machinery for \u20b9 3,50,000 by issuing cheque.",
+        "options": [
+            "Investing activity and outflow \u20b9 3,50,000",
+            "Investing activity and inflow \u20b9 3,50,000",
+            "Investing activity and no flow",
+            "Operating activity and outflow \u20b9 3,50,000"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Cash Flow Statement\n\n**Detailed Explanation:**\n- **Nature of Activity:** Acquisition of long-term assets like machinery is an **Investing Activity**.\n- **Flow:** Since payment is made by cheque, money is going out of the business, so it is a **Cash Outflow**.\n- **Amount:** \u20b9 3,50,000.\n- Combining these, it is an **Investing activity and outflow of \u20b9 3,50,000**."
+    },
+    {
+        "id": 12,
+        "text": "Arrange the following in proper sequence while preparing Cash Flow Statement :\n(A) Net cash flow from operating activities\n(B) Cash flow from financing activities\n(C) Cash flow from investing activities\n(D) Calculate net profit before tax and extraordinary items in working note\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B), (C), (D)",
+            "(D), (A), (C), (B)",
+            "(B), (A), (D), (C)",
+            "(C), (B), (D), (A)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Cash Flow Statement\n\n**Detailed Explanation:**\nThe standard procedure for preparing a Cash Flow Statement (Indirect Method) is:\n1.  **Step 1 (D):** Calculate Net Profit before Tax and Extraordinary Items (usually in working notes).\n2.  **Step 2 (A):** Calculate Net Cash Flow from Operating Activities (starting with the figure from Step 1).\n3.  **Step 3 (C):** Calculate Net Cash Flow from Investing Activities.\n4.  **Step 4 (B):** Calculate Net Cash Flow from Financing Activities.\n\n- Thus, the correct sequence is **(D) -> (A) -> (C) -> (B)**."
+    },
+    {
+        "id": 13,
+        "text": "The adjustment required for overvaluation of closing stock, while calculating adjusted profit for calculating goodwill is\n(A) reduction from concerned year's profit.\n(B) reduction from next year's profit.\n(C) addition to next year's profit.\n(D) addition to previous year's profit.\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B) and (D) only",
+            "(A) and (C) only",
+            "(A) and (D) only",
+            "(B), (C) and (D) only"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Valuation of Goodwill\n\n**Detailed Explanation:**\n- **Closing Stock** is credited to the Trading Account. If it is **overvalued**, the Gross Profit (and thus Net Profit) of that year is overstated.\n- **Adjustment 1 (Current Year):** To correct this, we must **deduct** the amount of overvaluation from the concerned year's profit. (Statement A is correct).\n- **Effect on Next Year:** The closing stock of one year becomes the **Opening Stock** of the next year. If opening stock is overvalued (debited to Trading A/c), the profit of the next year is understated.\n- **Adjustment 2 (Next Year):** To correct this undershoot, we must **add** the amount to the next year's profit. (Statement C is correct).\n\n- Therefore, the correct adjustments are **(A) and (C)**."
+    },
+    {
+        "id": 14,
+        "text": "Oversubscription is a situation where the",
+        "options": [
+            "number of shares applied for is equal to the number of shares issued.",
+            "number of shares applied for is more than the number of shares issued.",
+            "number of shares applied for is less than the number of shares issued.",
+            "face value of the share is less than the issue price of the share."
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Accounting for Share Capital\n\n**Detailed Explanation:**\n- **Oversubscription** occurs when the number of shares applied for by the public is **more than** the number of shares offered (issued) by the company.\n- **Undersubscription** is when applications are less than issued shares.\n- **Par/Premium/Discount** relates to the price (face value vs issue price), not the number of shares applied."
+    },
+    {
+        "id": 15,
+        "text": "400 shares of \u20b9 50 each issued at par were forfeited for non-payment of final call of \u20b9 10 per share. These shares were reissued at \u20b9 45 per share as fully paid-up. The amount transferred to capital reserve is :",
+        "options": [
+            "\u20b9 15,000",
+            "\u20b9 14,000",
+            "\u20b9 16,000",
+            "\u20b9 13,000"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Forfeiture and Reissue of Shares\n\n**Detailed Explanation:**\n1.  **Amount Forfeited:**\n    - Called up value = \u20b9 50.\n    - Unpaid amount (Final call) = \u20b9 10.\n    - Paid amount = \u20b9 50 - \u20b9 10 = \u20b9 40.\n    - Total amount forfeited = 400 shares \u00d7 \u20b9 40 = **\u20b9 16,000**.\n2.  **Discount on Reissue:**\n    - Reissued as fully paid up (\u20b9 50) for \u20b9 45.\n    - Discount allowed = \u20b9 5 per share.\n    - Total discount = 400 shares \u00d7 \u20b9 5 = **\u20b9 2,000**.\n3.  **Transfer to Capital Reserve:**\n    - Profit on reissue = Amount Forfeited - Discount on Reissue\n    - \u20b9 16,000 - \u20b9 2,000 = **\u20b9 14,000**."
+    },
+    {
+        "id": 16,
+        "text": "When debentures are issued at premium and redeemed at premium, the journal entry will have the following combination :\n(A) Discount on issue of debentures account is credited\n(B) Loss on issue of debentures account is debited\n(C) Security premium account is credited\n(D) Premium on redemption of debentures account is credited\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B) and (D) only",
+            "(A), (B) and (C) only",
+            "(A), (B), (C) and (D)",
+            "(B), (C) and (D) only"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Issue and Redemption of Debentures\n\n**Detailed Explanation:**\nWhen debentures are issued at a premium and redeemed at a premium:\n- **Bank A/c** is debited (Total receipt).\n- **Loss on Issue of Debentures A/c** is **Debited** (with the amount of premium payable on redemption). (Statement B is Correct).\n- **To Debentures A/c** (Face Value).\n- **To Securities Premium A/c** is **Credited** (with the premium received on issue). (Statement C is Correct).\n- **To Premium on Redemption of Debentures A/c** is **Credited** (Liability for premium to be paid later). (Statement D is Correct).\n- 'Discount on issue' is not involved here as they are issued at premium.\n\n- Thus, the correct combination is **(B), (C), and (D)**."
+    },
+    {
+        "id": 17,
+        "text": "Match List-I with List-II.\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Share Capital Account | (I) Debited with amount not received |\n| (B) Share Forfeited Account | (II) Credited with amount not received |\n| (C) Calls-in-arrears Account | (III) Credited with amount received towards share capital |\n| (D) Securities Premium Account | (IV) Debited with amount called up |\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (IV), (B) - (III), (C) - (II), (D) - (I)",
+            "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+            "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Forfeiture of Shares\n\n**Detailed Explanation:**\n- **(A) Share Capital Account:** At the time of forfeiture, it is **debited with the amount called up** (to cancel the capital created so far). -> Matches **(IV)**.\n- **(B) Share Forfeited Account:** It is **credited with the amount received** (forfeited amount). -> Matches **(III)**.\n- **(C) Calls-in-arrears Account:** If opened, it has a debit balance. On forfeiture, it is **credited with the amount not received** (to close the arrears account). -> Matches **(II)**.\n- **(D) Securities Premium Account:** If the premium has not been received, it is **debited with the amount not received**. -> Matches **(I)**.\n\n- So, A-IV, B-III, C-II, D-I."
+    },
+    {
+        "id": 18,
+        "text": "Arrange the following in the correct sequence in the context of debenture.\n(A) Payment to debenture-holders\n(B) Creation of DRR\n(C) Issue of debentures\n(D) Redemption becomes due\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B), (C), (D)",
+            "(A), (C), (B), (D)",
+            "(B), (A), (D), (C)",
+            "(C), (B), (D), (A)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Issue and Redemption of Debentures\n\n**Detailed Explanation:**\nThe lifecycle of a debenture typically follows this order:\n1.  **(C) Issue of debentures:** The company issues debentures to raise funds.\n2.  **(B) Creation of DRR (Debenture Redemption Reserve):** Created out of profits available for dividend, before redemption starts (as per rules).\n3.  **(D) Redemption becomes due:** The date of maturity arrives.\n4.  **(A) Payment to debenture-holders:** The company pays back the principal (and premium if any).\n\n- Correct sequence: **(C) -> (B) -> (D) -> (A)**."
+    },
+    {
+        "id": 19,
+        "text": "If a delay occurs beyond 8 days in refunding the subscription amount, failing to gather the minimum subscription, from the date of closure of the subscription list, the company shall be liable for interest at the rate of :",
+        "options": [
+            "15%",
+            "12%",
+            "6%",
+            "Prevailing in State Bank of India"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Accounting for Share Capital\n\n**Detailed Explanation:**\n- As per **Section 39(3) of the Companies Act, 2013** and Rule 11 of Companies (Prospectus and Allotment of Securities) Rules, 2014:\n- If minimum subscription is not received, application money must be refunded within 15 days from the closure of the issue.\n- If there is a delay beyond 15 days (the question mentions 8 days which might be a specific context or older rule, but currently the penalty interest is standard), the directors are jointly and severally liable to repay the money with interest at the rate of **15% per annum**."
+    },
+    {
+        "id": 20,
+        "text": "A company can accept calls in advance, if authorised by :",
+        "options": [
+            "Shareholders",
+            "Board of Directors",
+            "Articles of Association",
+            "Memorandum of Association"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Accounting for Share Capital\n\n**Detailed Explanation:**\n- **Calls in Advance** refers to the amount paid by shareholders before the company has called for it.\n- A company can accept calls in advance only if it is authorised by its **Articles of Association (AoA)**.\n- Table F of the Companies Act, 2013 contains the model articles which authorise this."
+    },
+    {
+        "id": 21,
+        "text": "A, B and C are partners sharing profits in the ratio of 3 : 2 : 1. C died on 1st July, 2023. On this date, final accounts were prepared to ascertain profits for the period. It resulted in a profit of \u20b9 1,75,000 to the firm. To give effect to the above :",
+        "options": [
+            "Profit and Loss Account will be debited.",
+            "Profit and Loss Appropriation Account will be debited.",
+            "Profit and Loss Account will be credited.",
+            "Profit and Loss Appropriation Account will be credited."
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Death of a Partner\n\n**Detailed Explanation:**\n- Usually, interim profit is adjusted via P&L Suspense A/c.\n- However, the question states that \"final accounts were prepared\". This means the actual Profit & Loss for the period has been determined.\n- This profit (\u20b9 1,75,000) is meant to be distributed among *all* partners (A, B, and C) for that period.\n- The entry to distribute profit is:\n  **Profit and Loss Appropriation A/c Dr.**\n  **To Partners' Capital A/cs**\n- Therefore, the **Profit and Loss Appropriation Account will be debited**."
+    },
+    {
+        "id": 22,
+        "text": "On the date of admission of a partner there was a balance of \u20b9 45,000 in the account of machinery. It was found undervalued by 10%. The value of machinery will appear in the new Balance Sheet at :",
+        "options": [
+            "\u20b9 49,500",
+            "\u20b9 50,000",
+            "\u20b9 40,000",
+            "\u20b9 40,500"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Admission of a Partner (Revaluation)\n\n**Detailed Explanation:**\n- **Book Value** = \u20b9 45,000.\n- It is undervalued by 10%. This means the Book Value is 90% of the Original/Correct Value.\n- Let correct value be X.\n- X - 10% of X = 45,000\n- 0.9X = 45,000\n- X = 45,000 / 0.9 = **\u20b9 50,000**.\n- The machinery will appear in the new Balance Sheet at its revalued figure, which is \u20b9 50,000."
+    },
+    {
+        "id": 23,
+        "text": "Dividend received is",
+        "options": [
+            "Operating activity",
+            "Financing activity",
+            "Investing activity",
+            "Cash and cash equivalents"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Cash Flow Statement\n\n**Detailed Explanation:**\n- **Dividend Received** represents a return on investment in shares of other companies.\n- For a non-financial enterprise, this is clearly an **Investing Activity**.\n- (Note: For a financial enterprise, it would be Operating, but the default assumption is non-financial)."
+    },
+    {
+        "id": 24,
+        "text": "A partnership can have maximum 50 partners. This limit has been set by the :",
+        "options": [
+            "Indian Partnership Act, 1932",
+            "State Government",
+            "Indian Contract Act, 1872",
+            "Central Government"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Partnership - Basic Concepts\n\n**Detailed Explanation:**\n- The limit on the maximum number of partners is **not** prescribed by the Indian Partnership Act, 1932.\n- It is prescribed by **Section 464 of the Companies Act, 2013**.\n- The Act empowers the **Central Government** to prescribe the number of partners (not exceeding 100).\n- The Central Government has prescribed the limit as **50** vide Rule 10 of the Companies (Miscellaneous) Rules, 2014.\n- Hence, the limit fits the description of being set by the **Central Government** (via the empowered Act)."
+    },
+    {
+        "id": 25,
+        "text": "Which of the following is an example of sequential code ?",
+        "options": [
+            "Using Code \u201cCL001\u201d for \u201cAccounts of XYZ Ltd\u201d.",
+            "Using Code \u201c100-199\u201d for \u201cDealers of Small Pumps\u201d.",
+            "Using Code \u201cSJ\u201d for \u201cSales Journals\u201d.",
+            "Using Code \u201cHQ\u201d for \u201cHeadquarters\u201d."
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Computerised Accounting System (Codification)\n\n**Detailed Explanation:**\n- **Sequential Codes** (or Serial Codes) numbers are assigned in a consecutive order, e.g., 001, 002, 003.\n- Option (1) \"CL001\" represents a sequence (001) likely with a prefix, which is a common implementation of sequential coding in mixed systems.\n- Option (2) \"100-199\" is a **Block Code** (range of numbers).\n- Option (3) \"SJ\" is a **Mnemonic Code** (letters suggesting the name).\n- Option (4) \"HQ\" is also a **Mnemonic Code**."
+    },
+    {
+        "id": 26,
+        "text": "If there is no claim against Workmen Compensation Reserve, it is _________________ at the time of admission of a partner.\nFill in the blank with the correct answer from the options given below.",
+        "options": [
+            "debited to old partners' capital account.",
+            "credited to all partners' capital accounts.",
+            "credited to old partners' capital accounts.",
+            "debited to all partners' capital accounts."
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Admission of a Partner\n\n**Detailed Explanation:**\n- **Workmen Compensation Reserve (WCR)** is part of accumulated profits.\n- If there is no claim, the entire reserve belongs to the **Old Partners**.\n- It is distributed in their **Old Profit Sharing Ratio**.\n- The journal entry is:\n  Workmen Compensation Reserve A/c Dr.\n  To Old Partners' Capital A/cs\n- Thus, it is **credited to old partners' capital accounts**."
+    },
+    {
+        "id": 27,
+        "text": "A, B and C are partners sharing profits in the ratio of 3 : 3 : 4. They decide to share the future profits equally. The sacrifice or gain of partners are :",
+        "options": [
+            "A gains 1/30; B gains 1/30; C sacrifices 2/30",
+            "A gains 2/30; B gains 1/30; C sacrifices 3/30",
+            "A sacrifices 1/30; B gains 3/30; C sacrifices 2/30",
+            "A gains 2/30; B gains 3/30; C sacrifices 5/30"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Reconstruction (Change in PSR)\n\n**Detailed Explanation:**\n- **Old Ratio:** A:B:C = 3:3:4 (Total 10) -> 9/30 : 9/30 : 12/30.\n- **New Ratio:** 1:1:1 (Total 3) -> 10/30 : 10/30 : 10/30.\n- **Gain/Sacrifice = New Share - Old Share**\n  - **A:** 10/30 - 9/30 = **+1/30 (Gain)**\n  - **B:** 10/30 - 9/30 = **+1/30 (Gain)**\n  - **C:** 10/30 - 12/30 = **-2/30 (Sacrifice)**\n- Result: A gains 1/30; B gains 1/30; C sacrifices 2/30."
+    },
+    {
+        "id": 28,
+        "text": "Match List-I with List-II.\n\n| List-I (Equal amount of drawings made) | List-II (Number of month for which interest calculated) |\n| :--- | :--- |\n| (A) At the end of each half year | (I) 4.5 months |\n| (B) At the beginning of each quarter | (II) 6.5 months |\n| (C) At the beginning of each month | (III) 7.5 months |\n| (D) At the end of each quarter | (IV) 3 months |\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)",
+            "(A) - (IV), (B) - (II), (C) - (I), (D) - (III)",
+            "(A) - (IV), (B) - (III), (C) - (II), (D) - (I)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Interest on Drawings\n\n**Detailed Explanation:**\n- **(A) End of each half year:** Avg Period = (6 + 0) / 2 = **3 months** (IV).\n- **(B) Beginning of each quarter:** Avg Period = (12 + 3) / 2 = **7.5 months** (III).\n- **(C) Beginning of each month:** Avg Period = (12 + 1) / 2 = **6.5 months** (II).\n- **(D) End of each quarter:** Avg Period = (9 + 0) / 2 = **4.5 months** (I).\n- Matching: A-IV, B-III, C-II, D-I."
+    },
+    {
+        "id": 29,
+        "text": "Kavita and Lalita are partners, sharing profits in the ratio of 2 : 1. They decide to admit Mohan for 1/4th share in future profits with a guaranteed amount of \u20b9 25,000. Both Kavita and Lalita undertake to meet the liability arising due to the guaranteed amount to Mohan in their respective profit sharing ratio. The firm earned profits of \u20b9 76,000 for the year 2022\u201323. The deficiency borne by Kavita is :",
+        "options": [
+            "\u20b9 4,000",
+            "\u20b9 2,000",
+            "\u20b9 6,000",
+            "\u20b9 4,500"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Guarantee of Profits\n\n**Detailed Explanation:**\n1.  **Mohan's Share:** 1/4 of 76,000 = \u20b9 19,000.\n2.  **Guaranteed Amount:** \u20b9 25,000.\n3.  **Deficiency:** 25,000 - 19,000 = \u20b9 6,000.\n4.  **Borne by:** Kavita and Lalita in PSR (2:1).\n5.  **Kavita's Share of Deficiency:** 6,000 \u00d7 (2/3) = **\u20b9 4,000**."
+    },
+    {
+        "id": 30,
+        "text": "Anshu and Nitu are partners, sharing profits in the ratio of 3 : 2. They admitted Jyoti as a new partner for 3/10 share which she acquired 2/10 from Anshu and 1/10 from Nitu. Calculate the new profit sharing ratio of Anshu, Nitu and Jyoti.",
+        "options": [
+            "4 : 3 : 3",
+            "3 : 4 : 3",
+            "3 : 3 : 4",
+            "3 : 2 : 1"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Admission - New Profit Sharing Ratio\n\n**Detailed Explanation:**\n- **Old Ratio:** A : N = 3:2 (3/5, 2/5).\n- **Jyoti's Share:** 3/10.\n- **Sacrifice:** Anshu gives 2/10, Nitu gives 1/10.\n- **New Shares:**\n  - Anshu = 3/5 - 2/10 = 6/10 - 2/10 = **4/10**.\n  - Nitu = 2/5 - 1/10 = 4/10 - 1/10 = **3/10**.\n  - Jyoti = **3/10**.\n- **New Ratio:** 4 : 3 : 3."
+    },
+    {
+        "id": 31,
+        "text": "The journal entry for treatment of goodwill, when a new partner brings his share of goodwill in cash and one of the old partners gains, involves the following :\n(A) Gaining Partner\u2019s Capital Account is debited\n(B) Premium for Goodwill Account is debited\n(C) Sacrificing Partner\u2019s Capital Account is credited\n(D) Gaining Partner\u2019s Capital Account is credited\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B) and (D) only",
+            "(A), (B) and (C) only",
+            "(A), (B), (C) and (D)",
+            "(B), (C) and (D) only"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Admission - Treatment of Goodwill\n\n**Detailed Explanation:**\n- When a new partner brings goodwill in cash, it is credited to **Premium for Goodwill A/c**.\n- This premium is then distributed to Sacrificing Partners.\n- However, if an **Old Partner Gains** (due to change in ratio), they must also compensate the Sacrificing Partner.\n- The Entry is:\n  **Premium for Goodwill A/c Dr.** (Total brought by new)\n  **Gaining Partner's Capital A/c Dr.** (Proportionate gain)\n  **To Sacrificing Partner's Capital A/c** (Total sacrifice)\n- Therefore, statements **(A), (B), and (C)** are correct."
+    },
+    {
+        "id": 32,
+        "text": "While preparing Cash Flow Statement, purchase of goodwill is treated as :",
+        "options": [
+            "Operating activity",
+            "Financing activity",
+            "Investing activity",
+            "Exraordinary item"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Cash Flow Statement\n\n**Detailed Explanation:**\n- **Goodwill** is an Intangible Asset.\n- **Purchase of Goodwill** (payment made to acquire it) represents an investment in long-term assets.\n- Hence, it is classified as an **Investing Activity** (Cash Outflow)."
+    },
+    {
+        "id": 33,
+        "text": "The components of Computerised Accounting System are :",
+        "options": [
+            "Data, Report, Ledger, Hardware, Software",
+            "Data, People, Procedure, Hardware, Software",
+            "People, Procedure, Ledger, Data, Chart of Accounts",
+            "Data, Coding, Procedure, Rules, Output"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Computerised Accounting System\n\n**Detailed Explanation:**\n- The standard components of a Computerised Accounting System (CAS) are often cited as the \"5 components\":\n  1.  **Hardware**\n  2.  **Software**\n  3.  **Data**\n  4.  **People** (Users)\n  5.  **Procedure** (Instructions/Rules)\n- Option (2) lists exactly these five."
+    },
+    {
+        "id": 34,
+        "text": "The Sales and Accounts Receivable Subsystem deals with :",
+        "options": [
+            "the recording of Sales, maintaining of Sales Ledger and Receivables",
+            "the preparation of Budget for the coming financial year",
+            "the preparation of Profit and Loss Account, Balance Sheet and Cash Flow Statement",
+            "the purchase and payment to creditors"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Computerised Accounting System (Subsystems)\n\n**Detailed Explanation:**\n- **Sales and Accounts Receivable Subsystem** is involved in the Sales Cycle.\n- Its primary functions include order processing, **recording sales**, billing, and managing accounts receivable (maintaining **Sales Ledger**).\n- It tracks amounts owed by customers."
+    },
+    {
+        "id": 35,
+        "text": "The common fields used in a relationship between tables are called :",
+        "options": [
+            "Joint fields",
+            "Main fields",
+            "Table fields",
+            "Key fields"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Database Management System (DBMS)\n\n**Detailed Explanation:**\n- In a relational database, tables are linked (related) using common fields.\n- These common fields are typically the **Primary Key** in one table and the **Foreign Key** in another.\n- Collectively, they are referred to as **Key fields**."
+    },
+    {
+        "id": 36,
+        "text": "On dissolution of a firm, bank overdraft is transferred to :",
+        "options": [
+            "Bank Account",
+            "Realisation Account",
+            "Partners\u2019 Capital Account",
+            "Partners\u2019 Loan Account"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Dissolution of Partnership Firm\n\n**Detailed Explanation:**\n- **Bank Overdraft** is an external liability.\n- Like other third-party liabilities (Creditors, Bills Payable), it is transferred to the **Realisation Account** (Credit side) to close the book value.\n- The payment is then made and debited to Realisation Account."
+    },
+    {
+        "id": 37,
+        "text": "Arrange the following steps in the correct sequence of the life of a company :\n(A) Commencement of Business\n(B) Incorporation\n(C) Promotion\n(D) Floatation\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B), (C), (D)",
+            "(A), (C), (B), (D)",
+            "(B), (A), (D), (C)",
+            "(C), (B), (D), (A)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 3,
+        "explanation": "**Topic:** Formation of a Company\n\n**Detailed Explanation:**\n- **Step 1: Promotion (C)** (Conceiving the idea).\n- **Step 2: Incorporation (B)** (Registration/Birth of company).\n- **Step 3: Floatation/Capital Subscription (D)** (Raising capital from public).\n- **Step 4: Commencement of Business (A)** (Obtaining certificate to start operations).\n- Correct Order: **(C) -> (B) -> (D) -> (A)**."
+    },
+    {
+        "id": 38,
+        "text": "Arrange the following in the correct order :\n(A) Subscribed Capital\n(B) Issued Capital\n(C) Authorised Capital\n(D) Paid-up Capital\n(E) Called-up Capital\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(C), (B), (A), (D), (E)",
+            "(B), (C), (A), (D), (E)",
+            "(C), (B), (A), (E), (D)",
+            "(B), (C), (A), (E), (D)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Share Capital\n\n**Detailed Explanation:**\n- **Authorised Capital (C):** Max capital allowed.\n- **Issued Capital (B):** Further part of Authorised offered to public.\n- **Subscribed Capital (A):** Part of Issued taken up by public.\n- **Called-up Capital (E):** Part of Subscribed called by company.\n- **Paid-up Capital (D):** Part of Called-up actually paid by members.\n- Correct Order: **(C) -> (B) -> (A) -> (E) -> (D)**."
+    },
+    {
+        "id": 39,
+        "text": "The Deceased Partner's Capital Account includes the following amount/balances :\n(A) Opening balance of his capital\n(B) His share of profit/loss till the date of death\n(C) His share of General Reserve\n(D) His drawings till the date of death\n(E) Amount paid to his executors\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(A), (B), (D) and (E) only",
+            "(A), (B), (C) and (D) only",
+            "(A), (B) and (C) only",
+            "(A), (B), (C) and (E) only"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Death of a Partner\n\n**Detailed Explanation:**\n- The Deceased Partner's Capital Account is prepared to ascertain the amount due to him.\n- **Included items:**\n  - **(A) Opening Balance** (Credit).\n  - **(B) Share of Profit** till death (Credit).\n  - **(C) Share of Reserves** (Credit).\n  - **(D) Drawings** (Debit) - technically included in the preparing of the account.\n- **Excluded:**\n  - **(E) Amount paid to executors:** This transaction happens in the **Executor's Account** after the balance is transferred from Capital A/c.\n- Therefore, **(A), (B), (C), and (D)** are the components of the Capital Account itself."
+    },
+    {
+        "id": 40,
+        "text": "Identify the correct sequence of the following steps involved in calculating cash flows from operating activities of a company :\n(A) Operating profit before working capital changes\n(B) Cash generated from operations\n(C) Income tax paid\n(D) Net cash flow from operating activities\n(E) Goodwill amortised\n\nChoose the correct answer from the options given below :",
+        "options": [
+            "(E), (C), (D), (A), (B)",
+            "(E), (A), (D), (B), (C)",
+            "(E), (A), (B), (C), (D)",
+            "(A), (B), (C), (D), (E)"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Cash Flow Statement\n\n**Detailed Explanation:**\n1.  **Start:** Net Profit before Tax (Not in list).\n2.  **Adjustment:** Add Non-cash items like **Goodwill Amortised (E)**.\n3.  **Result:** **Operating Profit before Working Capital Changes (A)**.\n4.  **Adjustment:** Add/Less WC changes -> Result: **Cash Generated from Operations (B)**.\n5.  **Less:** **Income Tax Paid (C)**.\n6.  **Final Result:** **Net Cash Flow from Operating Activities (D)**.\n- Sequence: **(E) -> (A) -> (B) -> (C) -> (D)**."
+    },
+    {
+        "id": 41,
+        "text": "Calculate Trade Receivables Turnover Ratio.\nGiven:\nRevenue from Operations: \u20b9 8,75,000\nCreditors: \u20b9 90,000\nBills Receivable: \u20b9 48,000\nBills Payable: \u20b9 52,000\nPurchases: \u20b9 4,20,000\nTrade Debtors: \u20b9 59,000",
+        "options": [
+            "8.18 times",
+            "8.23 : 1",
+            "8.18%",
+            "8.81 : 1"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Accounting Ratios\n\n**Detailed Explanation:**\n- **Formula:** Net Credit Revenue from Operations / Average Trade Receivables\n- **Net Credit Revenue:** Assumed to be same as Revenue from Operations = \u20b9 8,75,000.\n- **Trade Receivables:** Debtors + Bills Receivable = 59,000 + 48,000 = \u20b9 1,07,000. (Taken as average).\n- **Calculation:** 8,75,000 / 1,07,000 = **8.177...**\n- Rounded to **8.18 times**."
+    },
+    {
+        "id": 42,
+        "text": "Calculate Average Collection Period.\n(Using data from previous question)",
+        "options": [
+            "30 days",
+            "60 days",
+            "45 days",
+            "15 days"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Accounting Ratios\n\n**Detailed Explanation:**\n- **Formula:** 365 / Trade Receivables Turnover Ratio\n- **Calculation:** 365 / 8.18 \u2248 **44.6 days**.\n- Rounding to the nearest option: **45 days**."
+    },
+    {
+        "id": 43,
+        "text": "Calculate Trade Payables Turnover Ratio.\n(Using data from previous question)",
+        "options": [
+            "29.6 times",
+            "2.96 times",
+            "29.6%",
+            "2.69 : 1"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Accounting Ratios\n\n**Detailed Explanation:**\n- **Formula:** Net Credit Purchases / Average Trade Payables\n- **Net Credit Purchases:** = \u20b9 4,20,000.\n- **Trade Payables:** Creditors + Bills Payable = 90,000 + 52,000 = \u20b9 1,42,000.\n- **Calculation:** 4,20,000 / 1,42,000 \u2248 **2.957...**\n- Rounded to **2.96 times**."
+    },
+    {
+        "id": 44,
+        "text": "Calculate Average Payment Period.\n(Using data from previous question)",
+        "options": [
+            "123 days",
+            "121 days",
+            "132 days",
+            "133 days"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Accounting Ratios\n\n**Detailed Explanation:**\n- **Formula:** 365 / Trade Payables Turnover Ratio\n- **Calculation:** 365 / 2.96 \u2248 **123.3 days**.\n- Rounded to **123 days**."
+    },
+    {
+        "id": 45,
+        "text": "Trade Receivables Turnover Ratio and Trade Payables Turnover Ratio are categorised as :",
+        "options": [
+            "Liquidity Ratio",
+            "Solvency Ratio",
+            "Activity Ratio",
+            "Profitability Ratio"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 2,
+        "explanation": "**Topic:** Accounting Ratios\n\n**Detailed Explanation:**\n- **Activity Ratios** (also known as Turnover Ratios or Performance Ratios) measure how efficiently a company uses its assets.\n- Both Trade Receivables Turnover Ratio and Trade Payables Turnover Ratio fall under this category as they indicate the speed of collection and payment."
+    },
+    {
+        "id": 46,
+        "text": "What is the mode of dissolution of the firm followed by G, K and B ?\n(G, K, B decided to dissolve the firm due to continuous losses)",
+        "options": [
+            "Dissolution by Agreement",
+            "On the happening of certain contingencies",
+            "Dissolution by Notice",
+            "Compulsory Dissolution"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Dissolution of Partnership Firm\n\n**Detailed Explanation:**\n- The case states: \"they all **decided** to dissolve the firm\".\n- When all partners agree to dissolve the firm, it is called **Dissolution by Agreement** (Section 40 of Indian Partnership Act, 1932)."
+    },
+    {
+        "id": 47,
+        "text": "Determine the amount of Profit and Loss Account.\nGiven:\nCapitals: G 4L, K 3L, B 2L (Total 9L)\nLiabilities: 80,000\nAssets: Cash 40,000, Sundry Assets 8,50,000\nP&L A/c constituted the rest.",
+        "options": [
+            "(Cr.) \u20b9 90,000",
+            "(Dr.) \u20b9 90,000",
+            "(Cr.) \u20b9 1,30,000",
+            "(Dr.) \u20b9 1,30,000"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Dissolution (Balance Sheet Check)\n\n**Detailed Explanation:**\n- **Total Liabilities Side:** Capitals (9,00,000) + Liabilities (80,000) = **9,80,000**.\n- **Total Assets Side (Given):** Sundry Assets (8,50,000) + Cash (40,000) = **8,90,000**.\n- **Difference:** 9,80,000 - 8,90,000 = **90,000**.\n- Since Assets side is short, the balancing figure is on the Asset side.\n- P&L on Asset side represents a **Debit Balance** (Accumulated Loss).\n- Answer: **(Dr.) \u20b9 90,000**."
+    },
+    {
+        "id": 48,
+        "text": "Determine Gain/Loss on Realisation.\nAssets realised at 80%. Liabilities paid in full. Unrecorded liability \u20b9 40,000. Realisation exp \u20b9 30,000.",
+        "options": [
+            "Loss \u20b9 2,40,000",
+            "Gain \u20b9 24,000",
+            "Loss \u20b9 1,70,000",
+            "Loss \u20b9 2,10,000"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Dissolution (Realisation Account)\n\n**Detailed Explanation:**\n**Realisation Account:**\n**Debits:**\n- Assets (Transfer): 8,50,000\n- Ext. Liabilities Paid: 80,000\n- Unrecorded Liab Paid: 40,000\n- Expenses Paid: 30,000\n- **Total Debits = 10,00,000**\n\n**Credits:**\n- Ext. Liabilities (Transfer): 80,000\n- Assets Realised (80% of 8,50,000): 6,80,000\n- **Total Credits = 7,60,000**\n\n**Result:** Debit (10,00,000) - Credit (7,60,000) = **Debit Balance 2,40,000**.\n- Debit balance implies **Loss on Realisation** of \u20b9 2,40,000."
+    },
+    {
+        "id": 49,
+        "text": "The entry for realisation expenses in above case study will be :\n(Realisation expenses amounted to \u20b9 30,000, being paid by G on behalf of the firm)",
+        "options": [
+            "Realisation A/c Dr. To Cash A/c",
+            "Realisation A/c Dr. To G\u2019s Capital A/c",
+            "G\u2019s Capital A/c Dr. To Realisation A/c",
+            "Cash A/c Dr. To Realisation A/c"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 1,
+        "explanation": "**Topic:** Dissolution (Journal Entries)\n\n**Detailed Explanation:**\n- **Expense borne by:** The Firm (Realisation A/c Dr.).\n- **Expense paid by:** Partner G (on behalf of firm).\n- Since G paid from his pocket, the firm owes him money. So **G's Capital A/c is Credited**.\n- Entry: **Realisation A/c Dr.** (30,000) **To G's Capital A/c** (30,000)."
+    },
+    {
+        "id": 50,
+        "text": "Existing Profit and Loss Account in the books of the firm will be shared/borne by partners in the ratio :",
+        "options": [
+            "5 : 3 : 2",
+            "Equal Ratio",
+            "4 : 3 : 2",
+            "Ratio of closing capital claims"
+        ],
+        "isFigure": false,
+        "source": "CUET-ACCOUNTANCY-2024",
+        "correctAnswerIndex": 0,
+        "explanation": "**Topic:** Dissolution\n\n**Detailed Explanation:**\n- Accumulated profits or losses (like the existing P&L Debit balance) are always distributed among partners in their **Profit Sharing Ratio (PSR)** unless agreed otherwise.\n- The PSR given in the problem is **5 : 3 : 2**."
+    }
+]

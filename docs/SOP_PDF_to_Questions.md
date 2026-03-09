@@ -16,6 +16,11 @@ This document outlines the systematic process for converting static PDF exam pap
 
 ## 3. Conversion Workflow
 
+### Batch Processing Standard
+**Critical:** To ensure accuracy and manageability, all conversion and verification tasks must be performed in **batches of 10 questions** (e.g., Q1-10, Q11-20).
+- **Process:** Update 10 questions -> Verify in Browser -> Commit.
+- **Why:** This prevents cascading errors and makes manual review less overwhelming.
+
 ### Phase 1: Text Extraction & Parsing
 **Objective:** Convert raw text into structured JSON.
 1.  **Input Preparation**: Place the text file in a known location (e.g., `CUET UG/Sample-papers/`).
@@ -23,7 +28,7 @@ This document outlines the systematic process for converting static PDF exam pap
     ```bash
     node scripts/parse_questions.js
     ```
-    *Logic:* This script identifies question blocks (`1. ...`), separates options (`(1)...(4)`), and handles bilingual content by filtering for English pages (typically even/odd page logic).
+    *Logic:* This script identifies question blocks (`1. ...`) and separates options. **CRITICAL:** It must strictly filter for **English-only pages** (typically found on even indices like Page 2, 4...) and ignore regional language pages (e.g., Assamese, Hindi) to prevent duplicate or garbled data.
 3.  **Output**: Generates `cuet-app/src/data/questions.json`.
 
 ### Phase 2: Data Cleaning & Symbol Repair
@@ -47,6 +52,9 @@ This document outlines the systematic process for converting static PDF exam pap
     node scripts/enrich_questions.js
     ```
     *Result:* Populates `correctAnswerIndex` and `explanation` fields.
+3.  **Syllabus Alignment**:
+    - Refer to the subject-specific syllabus files in `CUET UG/Syllbus/` (e.g., `CUET-ACC-syllabus.pdf`) to ensure explanations align with the official curriculum.
+    - Tag questions with relevant topics if the schema allows.
 
 ### Phase 4: Visual Reconstruction (SVG)
 **Objective:** Replace missing images with high-fidelity vector graphics.
@@ -92,23 +100,46 @@ interface Question {
 ```
 
 ### B. Modularisation Strategy
-As the dataset expands beyond 500+ questions, do not keep everything in a single `questions.json` file.
-1.  **File Splitting**: Split data by subject or year into separate files in `src/data/`:
-    *   `questions_math_2024.json`
-    *   `questions_logical_2024.json`
-2.  **Aggregation**: Use an index file (`src/data/index.ts`) to import and merge these files before serving them to the app.
+As the dataset expands to include multiple subjects (Accountancy, Business Studies, Economics, English, General Test), do not keep everything in a single `questions.json` file.
+
+1.  **File Splitting**: Split data by **Subject** and **Year** into separate files in `src/data/`:
+    *   `src/data/questions_accountancy_2022.json`
+    *   `src/data/questions_business_studies_2023.json`
+    *   `src/data/questions_economics_2024.json`
+    *   `src/data/questions_english_2022.json`
+    *   `src/data/questions_gat_2022.json` (General Aptitude Test)
+    
+2.  **Aggregation**: Use `src/data/index.ts` to import and combine these into a unified structure or export them as distinct collections.
     ```typescript
-    import math24 from './questions_math_2024.json';
-    import logic24 from './questions_logical_2024.json';
-    export const allQuestions = [...math24, ...logic24];
+    import acc22 from './questions_accountancy_2022.json';
+    import bs23 from './questions_business_studies_2023.json';
+    
+    export const questionsBySubject = {
+      accountancy: [...acc22],
+      businessStudies: [...bs23],
+      // ...
+    };
     ```
 
 ### C. Asset Organisation
 *   **Naming Convention**: `q{id}.svg` (e.g., `q101.svg`).
-*   **Directory Structure**: If assets exceed 100, create subfolders matching the data split:
-    *   `public/assets/math_2024/`
-    *   `public/assets/logic_2024/`
+*   **Directory Structure**: Create subfolders for each subject to prevent ID collisions and maintain order:
+    *   `public/assets/accountancy/`
+    *   `public/assets/business_studies/`
+    *   `public/assets/economics/`
+    *   `public/assets/english/`
+    *   `public/assets/gat/`
 
 ### D. Separation of Concerns
 *   **Scripts**: Extraction logic (`scripts/`) must remain separate from application code (`src/`).
 *   **UI Components**: `QuestionCard.tsx` should only handle rendering. Business logic (scoring, filtering) should reside in `App.tsx` or custom hooks.
+
+---
+
+## 6. Troubleshooting
+
+### Text Extraction Failed (Empty output)
+If `parse_questions.js` or the extraction script returns 0 questions or empty text:
+1.  **Check for Scanned PDF**: Open the PDF and try to select text. If you cannot, it is an image/scan.
+2.  **Solution**: You must use **OCR (Optical Character Recognition)** software (e.g., Adobe Acrobat Pro, Tesseract, or online converters) to convert the PDF to a searchable PDF or text file before processing.
+

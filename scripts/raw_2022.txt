@@ -1,0 +1,1660 @@
+Paper:         GENERAL TEST
+
+Set Name:      SET 22
+
+Exam Date: 06 Oct 2022
+
+Exam Shift:    1
+
+Langauge:      English
+
+
+Section:           GENERAL TEST
+
+Item No:           1
+
+Question ID:       654701
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:           GENERAL TEST
+
+Item No:           2
+
+Question ID:       654702
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:           GENERAL TEST
+
+Item No:           3
+
+Question ID:       654703
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:           GENERAL TEST
+
+Item No:           4
+
+Question ID:       654704
+
+Question Type: MCQ
+
+Question:
+
+A:
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       5
+
+Question ID:   654705
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       6
+
+Question ID:   654706
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       7
+
+Question ID:   654707
+
+Question Type: MCQ
+
+Question:
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       8
+
+Question ID:   654708
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       9
+
+Question ID:   654709
+
+Question Type: MCQ
+
+
+Question:
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       10
+
+Question ID:   6547010
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+Item No:       11
+
+Question ID:   6547011
+
+Question Type: MCQ
+
+
+Question:
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       12
+
+Question ID:   6547012
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       13
+
+Question ID:   6547013
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       14
+
+Question ID:   6547014
+
+Question Type: MCQ
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       15
+
+Question ID:   6547015
+
+Question Type: MCQ
+
+
+Passage:
+
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       16
+
+Question ID:   6547016
+
+Question Type: MCQ
+
+
+Passage:
+
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       17
+
+Question ID:   6547017
+
+Question Type: MCQ
+
+
+Passage:
+
+
+Question:
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       18
+
+Question ID:   6547018
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       19
+
+Question ID:   6547019
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       20
+
+Question ID:   6547020
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+Item No:       21
+
+Question ID:   6547021
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       22
+
+Question ID:   6547022
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       23
+
+Question ID:   6547023
+
+Question Type: MCQ
+
+Question:
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       24
+
+Question ID:   6547024
+
+Question Type: MCQ
+
+
+Question:
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       25
+
+Question ID:   6547025
+
+Question Type: MCQ
+
+Question:
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       26
+
+Question ID:   6547026
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       27
+
+Question ID:   6547027
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       28
+
+Question ID:   6547028
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       29
+
+Question ID:   6547029
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       30
+
+Question ID:   6547030
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       31
+
+Question ID:   6547031
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       32
+
+Question ID:   6547032
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       33
+
+Question ID:   6547033
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       34
+
+Question ID:   6547034
+
+Question Type: MCQ
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       35
+
+Question ID:   6547035
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       36
+
+Question ID:   6547036
+
+Question Type: MCQ
+
+
+
+Question:
+
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       37
+
+Question ID:   6547037
+
+Question Type: MCQ
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       38
+
+Question ID:   6547038
+
+Question Type: MCQ
+
+
+
+Passage:
+
+
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       39
+
+Question ID:   6547039
+
+Question Type: MCQ
+
+
+Passage:
+
+
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       40
+
+Question ID:   6547040
+
+Question Type: MCQ
+
+
+Passage:
+
+
+
+Question:
+
+A:
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       41
+
+Question ID:   6547041
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       42
+
+Question ID:   6547042
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       43
+
+Question ID:   6547043
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       44
+
+Question ID:   6547044
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       45
+
+Question ID:   6547045
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       46
+
+Question ID:   6547046
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       47
+
+Question ID:   6547047
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       48
+
+Question ID:   6547048
+
+Question Type: MCQ
+
+Question:
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       49
+
+Question ID:   6547049
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       50
+
+Question ID:   6547050
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       51
+
+Question ID:   6547051
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       52
+
+Question ID:   6547052
+
+Question Type: MCQ
+
+Question:
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       53
+
+Question ID:   6547053
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       54
+
+Question ID:   6547054
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       55
+
+Question ID:   6547055
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       56
+
+Question ID:   6547056
+
+Question Type: MCQ
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       57
+
+Question ID:   6547057
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       58
+
+Question ID:   6547058
+
+Question Type: MCQ
+
+
+Question:
+
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       59
+
+Question ID:   6547059
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+Item No:       60
+
+Question ID:   6547060
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+
+D:
+
+
+
+Section:       GENERAL TEST
+
+Item No:       61
+
+Question ID:   6547061
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       62
+
+Question ID:   6547062
+
+Question Type: MCQ
+
+
+
+
+Passage:
+
+
+
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       63
+
+Question ID:   6547063
+Question Type: MCQ
+
+
+
+
+Passage:
+
+
+
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       64
+
+Question ID:   6547064
+
+Question Type: MCQ
+
+
+
+
+Passage:
+
+
+
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       65
+
+Question ID:   6547065
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       66
+
+Question ID:   6547066
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       67
+
+Question ID:   6547067
+
+Question Type: MCQ
+
+Question:
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       68
+
+Question ID:   6547068
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+Section:       GENERAL TEST
+
+Item No:       69
+
+Question ID:   6547069
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+
+
+Section:       GENERAL TEST
+
+Item No:       70
+
+Question ID:   6547070
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       71
+
+Question ID:   6547071
+
+Question Type: MCQ
+
+Question:
+
+A:
+
+B:
+
+C:
+
+D:
+Section:       GENERAL TEST
+
+Item No:       72
+
+Question ID:   6547072
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       73
+
+Question ID:   6547073
+
+Question Type: MCQ
+
+
+
+Question:
+
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       74
+
+Question ID:   6547074
+
+Question Type: MCQ
+
+
+
+Question:
+
+
+
+
+A:
+
+
+
+
+B:
+
+
+
+
+C:
+
+
+
+
+D:
+
+
+
+
+Section:       GENERAL TEST
+
+Item No:       75
+
+Question ID:   6547075
+
+Question Type: MCQ
+
+
+
+
+Question:
+
+
+
+
+A:
+
+B:
+
+C:
+
+D:
+

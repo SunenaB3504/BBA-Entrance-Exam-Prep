@@ -1,0 +1,42 @@
+ll D l| Bacteria |
+Section: GENERAL TEST
+Ttem No: 31
+Question ID: 6547031
+Question Type: || MCQ
+Question: Ina row of 35 student, Ramesh is 24 from starting. Two student from last went
+away. What is the position of Ramesh from last row?
+A iat
+B 1ot
+G i”
+D th
+Section: GENERAL TEST
+Ttem No: 32
+Question ID: 6547032
+Question Type: || MCQ
+. Which one of the following is the correct sequence in the decreasing order of
+Question: contribution of different sources to the gross domestic product (GDP) in India.
+A Service- Industry-Agriculture
+B Service-Agriculture-Industry
+CG Industry-Service-Agriculture
+D Agriculture-Industry-service
+Section: GENERAL TEST
+Ttem No: 33
+Question ID: 6547033
+Question Type: |] MCQ
+Match List I with List II
+List I List If
+(Country) (Capital city)
+A Ukrain I [Kiev
+Question: B._|SriLanka [Warsaw
+C. {Turkey II. {Colombo
+D. {Poland IV. |Ankara
+Choose the correct answer from the options given below:
+A A-I, B-III, CHI, D-IV
+B ACII, B-IIl, C-IV. D-I
+CG A-I, B-III, C-IV, D-II
+D: A-I, B-II, C-IIl, D-IV
+Section: GENERAL TEST
+Ttem No: 34
+Question ID: 6547034
+Question Type: |] MCQ
+

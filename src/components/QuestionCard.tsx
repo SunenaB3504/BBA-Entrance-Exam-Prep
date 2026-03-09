@@ -1,10 +1,13 @@
 import React, { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 interface Question {
     id: number;
     text: string;
     options: string[];
     isFigure: boolean;
+    image?: string;
     correctAnswerIndex?: number;
     explanation?: string;
     source?: string;
@@ -65,16 +68,20 @@ const QuestionCard: React.FC<QuestionCardProps> = ({ question, selectedOption, o
                     {mode === 'study' && <span className="mode-badge">Study Mode</span>}
                 </div>
             </div>
-            <p className="question-text">{question.text}</p>
+
+            <div className="question-text markdown-content">
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {question.text}
+                </ReactMarkdown>
+            </div>
 
             {question.isFigure && (
                 <div className="question-image-container">
                     <img
-                        src={`/assets/q${question.id}.svg?v=${Date.now()}`}
+                        src={question.image ? `${question.image}?v=${Date.now()}` : `/assets/q${question.id}.svg?v=${Date.now()}`}
                         alt={`Question ${question.id} Figure`}
                         className="question-image"
                         onError={(e) => {
-                            // Fallback if image not found (since we only generated a few)
                             e.currentTarget.style.display = 'none';
                         }}
                     />
@@ -90,7 +97,11 @@ const QuestionCard: React.FC<QuestionCardProps> = ({ question, selectedOption, o
                         disabled={mode === 'study' && showExplanation}
                     >
                         <span className="option-label">({index + 1})</span>
-                        <span className="option-content">{option}</span>
+                        <div className="option-content">
+                            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                                {option}
+                            </ReactMarkdown>
+                        </div>
                         {mode === 'study' && showExplanation && index === question.correctAnswerIndex && (
                             <span className="icon-check">✓</span>
                         )}
@@ -104,46 +115,10 @@ const QuestionCard: React.FC<QuestionCardProps> = ({ question, selectedOption, o
             {mode === 'study' && showExplanation && (
                 <div className="explanation-card">
                     <h3>Explanation</h3>
-                    <div className="explanation-content">
-                        {question.explanation?.split('\n').map((line, i) => {
-                            // Check for bold notation **text**
-                            const parseBold = (text: string) => {
-                                const parts = text.split(/(\*\*.*?\*\*)/g);
-                                return parts.map((part, index) => {
-                                    if (part.startsWith('**') && part.endsWith('**')) {
-                                        return <strong key={index}>{part.slice(2, -2)}</strong>;
-                                    }
-                                    return part;
-                                });
-                            };
-
-                            // Bullet points
-                            if (line.trim().startsWith('- ')) {
-                                return (
-                                    <div key={i} className="explanation-step bullet">
-                                        <span className="bullet-point">•</span>
-                                        <span>{parseBold(line.trim().substring(2))}</span>
-                                    </div>
-                                );
-                            }
-
-                            // Numbered lists (e.g., "1. ")
-                            if (/^\d+\.\s/.test(line.trim())) {
-                                return (
-                                    <div key={i} className="explanation-step numbered">
-                                        {parseBold(line)}
-                                    </div>
-                                );
-                            }
-
-                            // Empty lines
-                            if (!line.trim()) {
-                                return <div key={i} className="explanation-spacer"></div>;
-                            }
-
-                            // Standard text
-                            return <div key={i} className="explanation-text">{parseBold(line)}</div>;
-                        })}
+                    <div className="explanation-content markdown-content">
+                        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                            {question.explanation || "Detailed explanation coming soon."}
+                        </ReactMarkdown>
                     </div>
                 </div>
             )}

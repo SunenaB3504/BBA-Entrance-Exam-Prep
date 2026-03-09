@@ -1,0 +1,74 @@
+A bem
+2
+
+B lem
+2cm
+
+D 3cm
+
+Section: GENERAL TEST
+
+Item No: 49
+
+Question ID: 6547049
+
+Question Type: |] MCQ
+
+Question: One TB (Tera Byte) approximately occupies or comprises which of the following
+data or space size
+
+A 1000 KB
+
+B 1000 GB
+
+CG 1024 KB
+
+D 1024 GB
+
+Section: GENERAL TEST
+
+Item No: 50
+
+Question ID: 6547050
+
+Question Type: |] MCQ
+
+Question: If 36 persons can finish 50% of work in 12 days In how many days 72 person can
+finish the complete work?
+
+A 6
+
+B 3
+
+CG 9
+
+D 12
+
+Section: GENERAL TEST
+
+Item No: 51
+
+Question ID: 6547051
+
+Question Type: |] MCQ
+
+Question: Who is known as 'Nightingle of India’ ?
+
+A Vijaya Laxmi Pandit
+
+B Indira Gandhi
+
+CG Sarojini Naidu
+
+D Lata Mangeshkar
+
+Section: GENERAL TEST
+
+Item No: 52
+
+Question ID: 6547052
+
+Question Type: || MCQ
+
+Question: Which incident led Gandhi ji to with draw non-cooperation movement ?
+

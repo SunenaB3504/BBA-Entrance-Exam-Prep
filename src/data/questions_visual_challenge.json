@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "text": "Identify the next figure in the series.",
+        "options": [
+            "Diagram A",
+            "Diagram B",
+            "Diagram C",
+            "Diagram D"
+        ],
+        "isFigure": true,
+        "image": "/assets/images/challenge/q1.png",
+        "source": "Visual-Challenge-Set-1",
+        "correctAnswerIndex": 0,
+        "explanation": "Pattern: The black dot moves clockwise around the corners of the square. Step 1: Top-Left. Step 2: Top-Right. Step 3: Bottom-Right. Step 4 (Next): Bottom-Left. Diagram A shows the dot in the Bottom-Left corner."
+    },
+    {
+        "id": 2,
+        "text": "Which figure replaces the question mark?",
+        "options": [
+            "Diagram A",
+            "Diagram B",
+            "Diagram C",
+            "Diagram D"
+        ],
+        "isFigure": true,
+        "image": "/assets/images/challenge/q2.png",
+        "source": "Visual-Challenge-Set-1",
+        "correctAnswerIndex": 2,
+        "explanation": "Pattern: The number of vertical lines increases by 1 in each step. Step 1: 1 line. Step 2: 2 lines. Step 3: 3 lines. Next should have 4 lines. Diagram C has 4 vertical lines."
+    },
+    {
+        "id": 3,
+        "text": "Solve the visual analogy.",
+        "options": [
+            "Diagram A",
+            "Diagram B",
+            "Diagram C",
+            "Diagram D"
+        ],
+        "isFigure": true,
+        "image": "/assets/images/challenge/q3.png",
+        "source": "Visual-Challenge-Set-1",
+        "correctAnswerIndex": 1,
+        "explanation": "Analogy Logic: Shape changes from Circle to Square, but the internal symbol remains the same. Pair 1: Circle with '+' -> Square with '+'. Pair 2: Circle with 'x' -> ? Rule: Must be a Square with 'x'. Diagram B shows this."
+    },
+    {
+        "id": 4,
+        "text": "Find the correct mirror image if the mirror is placed to the right.",
+        "options": [
+            "Diagram A",
+            "Diagram B",
+            "Diagram C",
+            "Diagram D"
+        ],
+        "isFigure": true,
+        "image": "/assets/images/challenge/q4.png",
+        "source": "Visual-Challenge-Set-1",
+        "correctAnswerIndex": 3,
+        "explanation": "Mirror Logic: Left becomes Right. The original arrow points Top-Left. The mirror image must point Top-Right. Diagram D matches this reflection."
+    },
+    {
+        "id": 5,
+        "text": "A paper is folded in half (left to right) and a hole is punched in the center. How will it look when unfolded?",
+        "options": [
+            "Diagram A",
+            "Diagram B",
+            "Diagram C",
+            "Diagram D"
+        ],
+        "isFigure": true,
+        "image": "/assets/images/challenge/q5.png",
+        "source": "Visual-Challenge-Set-1",
+        "correctAnswerIndex": 0,
+        "explanation": "Folding Logic: The paper is folded once vertically. A hole in the center of the folded half implies two holes equidistant from the fold line when opened. Diagram A shows two horizontally aligned holes."
+    }
+]

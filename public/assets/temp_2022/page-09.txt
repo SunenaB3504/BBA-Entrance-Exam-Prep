@@ -1,0 +1,76 @@
+Cc I Red sea
+
+D: Mediterranean sea
+
+Section: GENERAL TEST
+
+Ttem No: 27
+
+Question ID: 6547027
+
+Question Type: || MCQ
+
+Question: If the sugar price is increased by 25% by how much percent consumption should
+be reduced that expense remains same.
+
+A 25%
+
+B 20%
+
+G 30%
+
+D 35%
+
+Section: GENERAL TEST
+
+Ttem No: 28
+
+Question ID: 6547028
+
+Question Type: |] MCQ
+
+Question: Mohan's Mother is three times as old as Mohan. After 6 years, his mother will be
+two times as old as he will be them, find the age of Mohan.
+
+A 18 years
+
+B 6 years
+
+CG 3 years
+
+D 16 years
+
+Section: GENERAL TEST
+
+Ttem No: 29
+
+Question ID: 6547029
+
+Question Type: |] MCQ
+
+Question: Which organisation published the Human Development Index (HDI) Report?
+
+A UNDP
+
+B UNESCO
+
+CG IMF
+
+D: UNICEF
+
+Section: GENERAL TEST
+
+Ttem No: 30
+
+Question ID: 6547030
+
+Question Type: || MCQ
+
+Question: Penicillium is a
+
+A Virus
+
+B Algae
+
+CG Fungi
+

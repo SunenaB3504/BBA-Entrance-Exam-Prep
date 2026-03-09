@@ -1,0 +1,32 @@
+|“ l| 21 June
+B 5 June
+21 July
+D: 22 March
+Section: GENERAL TEST
+Item No: 24
+Question ID: 6547024
+Question Type: |] MCQ
+If DOG = 26, FLY = 43
+Question:
+them what is the code for 'BIRD'
+A 60
+B 32
+Cc 33
+D 24
+Section: GENERAL TEST
+Item No: 25
+Question ID: 6547025
+Question Type: || MCQ
+Question: Which is the best diagram. showing the relation among Father. Mother and family.
+- ©
+100
+O
+ks
+Section: GENERAL TEST
+Item No: 26
+Question ID: 6547026
+Question Type: |] MCQ
+Question: Which of the following seas has highest salinity in the world?
+A Dead sea
+B Black sea
+

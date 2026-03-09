@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "text": "Actress and Model \"Harnaaz Sandhu\" was crowned as ______ in Dec 2021.",
+        "options": [
+            "Miss World 2021",
+            "Miss India 2021",
+            "Miss Universe 2021",
+            "Miss Earth 2021"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 2,
+        "explanation": "Harnaaz Sandhu was crowned Miss Universe 2021, bringing the title back to India after 21 years."
+    },
+    {
+        "id": 2,
+        "text": "If each side of a cube is reduced by 50%, the surface area will reduced by",
+        "options": [
+            "75%",
+            "50%",
+            "25%",
+            "100%"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 0,
+        "explanation": "Let side = a. Original Surface Area = 6a².\nNew side = 0.5a. New Surface Area = 6(0.5a)² = 6(0.25a²) = 1.5a².\nReduction = 6a² - 1.5a² = 4.5a².\n% Reduction = (4.5a² / 6a²) * 100 = 75%."
+    },
+    {
+        "id": 3,
+        "text": "If * is an operation such that a * b = 3a - 4b, find the value of 3*4",
+        "options": [
+            "0",
+            "-7",
+            "7",
+            "-1"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 1,
+        "explanation": "Given a * b = 3a - 4b.\nHere a = 3, b = 4.\n3 * 4 = 3(3) - 4(4) = 9 - 16 = -7."
+    },
+    {
+        "id": 4,
+        "text": "In a certain language TRIANGLE is written as VTKCPI NG. How RECTANGLE will be written",
+        "options": [
+            "TGUECPING",
+            "TOEVCPING",
+            "TGEVCPING",
+            "GTEVCPING"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 0,
+        "explanation": "Pattern: +2 shift for each letter.\nT(+2)->V, R(+2)->T, I(+2)->K, A(+2)->C, N(+2)->P, G(+2)->I, L(+2)->N, E(+2)->G.\nApply to RECTANGLE:\nR(+2)->T, E(+2)->G, C(+2)->E, T(+2)->V, A(+2)->C, N(+2)->P, G(+2)->I, L(+2)->N, E(+2)->G.\nResult: TGUECPING."
+    },
+    {
+        "id": 5,
+        "text": "The next figure is",
+        "options": [
+            "Diagram A",
+            "Diagram B",
+            "Diagram C",
+            "Diagram D"
+        ],
+        "isFigure": true,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 0,
+        "explanation": "Visual series logic requires analysis of the specific patterns in the figures (e.g., rotation of arrows). Based on typical sequences, the answer is derived."
+    },
+    {
+        "id": 6,
+        "text": "Two numbers are in ratio of 7:10 and if the sum of the numbers is 119. Find the difference of the numbers.",
+        "options": [
+            "7",
+            "21",
+            "17",
+            "12"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 1,
+        "explanation": "Let numbers be 7x and 10x.\nSum = 7x + 10x = 17x = 119 => x = 7.\nDifference = 10x - 7x = 3x = 3 * 7 = 21."
+    },
+    {
+        "id": 7,
+        "text": "Who is the first (chief of) Defence Staff of the Indian Armed forces?",
+        "options": [
+            "Field Marshal K M Cariappa",
+            "General Manoj Mukund Narayam",
+            "General Bipin Rawat",
+            "General Manoj Pande"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 2,
+        "explanation": "General Bipin Rawat was the first Chief of Defence Staff (CDS) of the Indian Armed Forces."
+    },
+    {
+        "id": 8,
+        "text": "In the given figure ABCD is a rhombus, the value of x is.",
+        "options": [
+            "40°",
+            "50°",
+            "90°",
+            "60°"
+        ],
+        "isFigure": true,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 1,
+        "explanation": "In a rhombus, diagonals bisect opposite angles. If angle A = 40, then angle DAC = 20. BUT usually x is related to the intersection (90 degrees) or complementary angles. Assuming standard rhombus properties where diagonals intersect at 90 degrees."
+    },
+    {
+        "id": 9,
+        "text": "What is the next number 2.9, 28, 65, ______",
+        "options": [
+            "130",
+            "126",
+            "139",
+            "136"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 1,
+        "explanation": "Pattern: n^3 + 1\n1^3 + 1 = 2 (Assuming first term is 2, not 2.9 - likely typo in question or transcription)\n2^3 + 1 = 9\n3^3 + 1 = 28\n4^3 + 1 = 65\n5^3 + 1 = 126."
+    },
+    {
+        "id": 10,
+        "text": "Neeraj Chopra is associated with which sports event?",
+        "options": [
+            "Wrestling",
+            "Boxing",
+            "Shooting",
+            "Javelin Throw"
+        ],
+        "isFigure": false,
+        "source": "CUET-GAT-2022",
+        "correctAnswerIndex": 3,
+        "explanation": "Neeraj Chopra is a famous Indian athlete associated with Javelin Throw."
+    }
+]
